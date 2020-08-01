@@ -1,0 +1,7607 @@
+[
+ {
+   "#": 771,
+   "Title": "jewels-and-stones",
+   "Score": 0.468
+ },
+ {
+   "#": 1119,
+   "Title": "remove-vowels-from-a-string",
+   "Score": 0.497
+ },
+ {
+   "#": 511,
+   "Title": "game-play-analysis-i",
+   "Score": 0.503
+ },
+ {
+   "#": 1108,
+   "Title": "defanging-an-ip-address",
+   "Score": 0.539
+ },
+ {
+   "#": 760,
+   "Title": "find-anagram-mappings",
+   "Score": 0.561
+ },
+ {
+   "#": 1350,
+   "Title": "students-with-invalid-departments",
+   "Score": 0.568
+ },
+ {
+   "#": 1480,
+   "Title": "running-sum-of-1d-array",
+   "Score": 0.568
+ },
+ {
+   "#": 709,
+   "Title": "to-lower-case",
+   "Score": 0.581
+ },
+ {
+   "#": 339,
+   "Title": "nested-list-weight-sum",
+   "Score": 0.582
+ },
+ {
+   "#": 595,
+   "Title": "big-countries",
+   "Score": 0.587
+ },
+ {
+   "#": 613,
+   "Title": "shortest-distance-in-a-line",
+   "Score": 0.59
+ },
+ {
+   "#": 1303,
+   "Title": "find-the-team-size",
+   "Score": 0.594
+ },
+ {
+   "#": 1431,
+   "Title": "kids-with-the-greatest-number-of-candies",
+   "Score": 0.599
+ },
+ {
+   "#": 1068,
+   "Title": "product-sales-analysis-i",
+   "Score": 0.601
+ },
+ {
+   "#": 1165,
+   "Title": "singlerow-keyboard",
+   "Score": 0.601
+ },
+ {
+   "#": 1470,
+   "Title": "shuffle-the-array",
+   "Score": 0.606
+ },
+ {
+   "#": 938,
+   "Title": "range-sum-of-bst",
+   "Score": 0.608
+ },
+ {
+   "#": 1069,
+   "Title": "product-sales-analysis-ii",
+   "Score": 0.609
+ },
+ {
+   "#": 1512,
+   "Title": "number-of-good-pairs",
+   "Score": 0.61
+ },
+ {
+   "#": 1342,
+   "Title": "number-of-steps-to-reduce-a-number-to-zero",
+   "Score": 0.616
+ },
+ {
+   "#": 1378,
+   "Title": "replace-employee-id-with-the-unique-identifier",
+   "Score": 0.62
+ },
+ {
+   "#": 1281,
+   "Title": "subtract-the-product-and-sum-of-digits-of-an-integer",
+   "Score": 0.629
+ },
+ {
+   "#": 461,
+   "Title": "hamming-distance",
+   "Score": 0.632
+ },
+ {
+   "#": 627,
+   "Title": "swap-salary",
+   "Score": 0.637
+ },
+ {
+   "#": 1313,
+   "Title": "decompress-runlength-encoded-list",
+   "Score": 0.638
+ },
+ {
+   "#": 346,
+   "Title": "moving-average-from-data-stream",
+   "Score": 0.64
+ },
+ {
+   "#": 1365,
+   "Title": "how-many-numbers-are-smaller-than-the-current-number",
+   "Score": 0.647
+ },
+ {
+   "#": 1221,
+   "Title": "split-a-string-in-balanced-strings",
+   "Score": 0.648
+ },
+ {
+   "#": 359,
+   "Title": "logger-rate-limiter",
+   "Score": 0.649
+ },
+ {
+   "#": 804,
+   "Title": "unique-morse-code-words",
+   "Score": 0.65
+ },
+ {
+   "#": 617,
+   "Title": "merge-two-binary-trees",
+   "Score": 0.655
+ },
+ {
+   "#": 104,
+   "Title": "maximum-depth-of-binary-tree",
+   "Score": 0.667
+ },
+ {
+   "#": 586,
+   "Title": "customer-placing-the-largest-number-of-orders",
+   "Score": 0.668
+ },
+ {
+   "#": 1484,
+   "Title": "group-sold-products-by-the-date",
+   "Score": 0.668
+ },
+ {
+   "#": 832,
+   "Title": "flipping-an-image",
+   "Score": 0.674
+ },
+ {
+   "#": 1486,
+   "Title": "xor-operation-in-an-array",
+   "Score": 0.674
+ },
+ {
+   "#": 657,
+   "Title": "robot-return-to-origin",
+   "Score": 0.675
+ },
+ {
+   "#": 561,
+   "Title": "array-partition-i",
+   "Score": 0.676
+ },
+ {
+   "#": 136,
+   "Title": "single-number",
+   "Score": 0.681
+ },
+ {
+   "#": 728,
+   "Title": "self-dividing-numbers",
+   "Score": 0.681
+ },
+ {
+   "#": 1086,
+   "Title": "high-five",
+   "Score": 0.682
+ },
+ {
+   "#": 584,
+   "Title": "find-customer-referee",
+   "Score": 0.683
+ },
+ {
+   "#": 344,
+   "Title": "reverse-string",
+   "Score": 0.684
+ },
+ {
+   "#": 1389,
+   "Title": "create-target-array-in-the-given-order",
+   "Score": 0.685
+ },
+ {
+   "#": 589,
+   "Title": "nary-tree-preorder-traversal",
+   "Score": 0.686
+ },
+ {
+   "#": 590,
+   "Title": "nary-tree-postorder-traversal",
+   "Score": 0.686
+ },
+ {
+   "#": 1295,
+   "Title": "find-numbers-with-even-number-of-digits",
+   "Score": 0.689
+ },
+ {
+   "#": 1179,
+   "Title": "reformat-department-table",
+   "Score": 0.691
+ },
+ {
+   "#": 1021,
+   "Title": "remove-outermost-parentheses",
+   "Score": 0.692
+ },
+ {
+   "#": 1251,
+   "Title": "average-selling-price",
+   "Score": 0.692
+ },
+ {
+   "#": 1173,
+   "Title": "immediate-food-delivery-i",
+   "Score": 0.693
+ },
+ {
+   "#": 700,
+   "Title": "search-in-a-binary-search-tree",
+   "Score": 0.694
+ },
+ {
+   "#": 1134,
+   "Title": "armstrong-number",
+   "Score": 0.716
+ },
+ {
+   "#": 557,
+   "Title": "reverse-words-in-a-string-iii",
+   "Score": 0.718
+ },
+ {
+   "#": 226,
+   "Title": "invert-binary-tree",
+   "Score": 0.719
+ },
+ {
+   "#": 1290,
+   "Title": "convert-binary-number-in-a-linked-list-to-integer",
+   "Score": 0.721
+ },
+ {
+   "#": 1407,
+   "Title": "top-travellers",
+   "Score": 0.725
+ },
+ {
+   "#": 1213,
+   "Title": "intersection-of-three-sorted-arrays",
+   "Score": 0.728
+ },
+ {
+   "#": 1266,
+   "Title": "minimum-time-visiting-all-points",
+   "Score": 0.729
+ },
+ {
+   "#": 1469,
+   "Title": "find-all-the-lonely-nodes",
+   "Score": 0.731
+ },
+ {
+   "#": 905,
+   "Title": "sort-array-by-parity",
+   "Score": 0.733
+ },
+ {
+   "#": 559,
+   "Title": "maximum-depth-of-nary-tree",
+   "Score": 0.741
+ },
+ {
+   "#": 237,
+   "Title": "delete-node-in-a-linked-list",
+   "Score": 0.746
+ },
+ {
+   "#": 1252,
+   "Title": "cells-with-odd-values-in-a-matrix",
+   "Score": 0.748
+ },
+ {
+   "#": 509,
+   "Title": "fibonacci-number",
+   "Score": 0.75
+ },
+ {
+   "#": 1180,
+   "Title": "count-substrings-with-only-one-distinct-letter",
+   "Score": 0.752
+ },
+ {
+   "#": 961,
+   "Title": "nrepeated-element-in-size-2n-array",
+   "Score": 0.754
+ },
+ {
+   "#": 577,
+   "Title": "employee-bonus",
+   "Score": 0.759
+ },
+ {
+   "#": 206,
+   "Title": "reverse-linked-list",
+   "Score": 0.762
+ },
+ {
+   "#": 852,
+   "Title": "peak-index-in-a-mountain-array",
+   "Score": 0.762
+ },
+ {
+   "#": 182,
+   "Title": "duplicate-emails",
+   "Score": 0.763
+ },
+ {
+   "#": 1148,
+   "Title": "article-views-i",
+   "Score": 0.768
+ },
+ {
+   "#": 463,
+   "Title": "island-perimeter",
+   "Score": 0.769
+ },
+ {
+   "#": 1085,
+   "Title": "sum-of-digits-in-the-minimum-number",
+   "Score": 0.769
+ },
+ {
+   "#": 942,
+   "Title": "di-string-match",
+   "Score": 0.771
+ },
+ {
+   "#": 1323,
+   "Title": "maximum-69-number",
+   "Score": 0.773
+ },
+ {
+   "#": 620,
+   "Title": "not-boring-movies",
+   "Score": 0.78
+ },
+ {
+   "#": 933,
+   "Title": "number-of-recent-calls",
+   "Score": 0.782
+ },
+ {
+   "#": 266,
+   "Title": "palindrome-permutation",
+   "Score": 0.784
+ },
+ {
+   "#": 175,
+   "Title": "combine-two-tables",
+   "Score": 0.785
+ },
+ {
+   "#": 977,
+   "Title": "squares-of-a-sorted-array",
+   "Score": 0.785
+ },
+ {
+   "#": 811,
+   "Title": "subdomain-visit-count",
+   "Score": 0.786
+ },
+ {
+   "#": 476,
+   "Title": "number-complement",
+   "Score": 0.787
+ },
+ {
+   "#": 1309,
+   "Title": "decrypt-string-from-alphabet-to-integer-mapping",
+   "Score": 0.788
+ },
+ {
+   "#": 1265,
+   "Title": "print-immutable-linked-list-in-reverse",
+   "Score": 0.79
+ },
+ {
+   "#": 243,
+   "Title": "shortest-word-distance",
+   "Score": 0.794
+ },
+ {
+   "#": 500,
+   "Title": "keyboard-row",
+   "Score": 0.796
+ },
+ {
+   "#": 897,
+   "Title": "increasing-order-search-tree",
+   "Score": 0.798
+ },
+ {
+   "#": 349,
+   "Title": "intersection-of-two-arrays",
+   "Score": 0.799
+ },
+ {
+   "#": 1299,
+   "Title": "replace-elements-with-greatest-element-on-right-side",
+   "Score": 0.802
+ },
+ {
+   "#": 1351,
+   "Title": "count-negative-numbers-in-a-sorted-matrix",
+   "Score": 0.803
+ },
+ {
+   "#": 610,
+   "Title": "triangle-judgement",
+   "Score": 0.805
+ },
+ {
+   "#": 1304,
+   "Title": "find-n-unique-integers-sum-up-to-zero",
+   "Score": 0.805
+ },
+ {
+   "#": 1450,
+   "Title": "number-of-students-doing-homework-at-a-given-time",
+   "Score": 0.806
+ },
+ {
+   "#": 1327,
+   "Title": "list-the-products-ordered-in-a-period",
+   "Score": 0.809
+ },
+ {
+   "#": 1464,
+   "Title": "maximum-product-of-two-elements-in-an-array",
+   "Score": 0.811
+ },
+ {
+   "#": 496,
+   "Title": "next-greater-element-i",
+   "Score": 0.813
+ },
+ {
+   "#": 944,
+   "Title": "delete-columns-to-make-sorted",
+   "Score": 0.813
+ },
+ {
+   "#": 1436,
+   "Title": "destination-city",
+   "Score": 0.813
+ },
+ {
+   "#": 293,
+   "Title": "flip-game",
+   "Score": 0.814
+ },
+ {
+   "#": 412,
+   "Title": "fizz-buzz",
+   "Score": 0.816
+ },
+ {
+   "#": 1050,
+   "Title": "actors-and-directors-who-cooperated-at-least-three-times",
+   "Score": 0.816
+ },
+ {
+   "#": 1511,
+   "Title": "customer-order-frequency",
+   "Score": 0.817
+ },
+ {
+   "#": 108,
+   "Title": "convert-sorted-array-to-binary-search-tree",
+   "Score": 0.819
+ },
+ {
+   "#": 169,
+   "Title": "majority-element",
+   "Score": 0.819
+ },
+ {
+   "#": 1082,
+   "Title": "sales-analysis-i",
+   "Score": 0.824
+ },
+ {
+   "#": 1279,
+   "Title": "traffic-light-controlled-intersection",
+   "Score": 0.824
+ },
+ {
+   "#": 1435,
+   "Title": "create-a-session-bar-chart",
+   "Score": 0.828
+ },
+ {
+   "#": 1370,
+   "Title": "increasing-decreasing-string",
+   "Score": 0.829
+ },
+ {
+   "#": 13,
+   "Title": "roman-to-integer",
+   "Score": 0.83
+ },
+ {
+   "#": 876,
+   "Title": "middle-of-the-linked-list",
+   "Score": 0.83
+ },
+ {
+   "#": 922,
+   "Title": "sort-array-by-parity-ii",
+   "Score": 0.831
+ },
+ {
+   "#": 1051,
+   "Title": "height-checker",
+   "Score": 0.831
+ },
+ {
+   "#": 1374,
+   "Title": "generate-a-string-with-characters-that-have-odd-counts",
+   "Score": 0.835
+ },
+ {
+   "#": 122,
+   "Title": "best-time-to-buy-and-sell-stock-ii",
+   "Score": 0.84
+ },
+ {
+   "#": 821,
+   "Title": "shortest-distance-to-a-character",
+   "Score": 0.842
+ },
+ {
+   "#": 603,
+   "Title": "consecutive-available-seats",
+   "Score": 0.843
+ },
+ {
+   "#": 1474,
+   "Title": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+   "Score": 0.844
+ },
+ {
+   "#": 883,
+   "Title": "projection-area-of-3d-shapes",
+   "Score": 0.845
+ },
+ {
+   "#": 181,
+   "Title": "employees-earning-more-than-their-managers",
+   "Score": 0.861
+ },
+ {
+   "#": 929,
+   "Title": "unique-email-addresses",
+   "Score": 0.861
+ },
+ {
+   "#": 607,
+   "Title": "sales-person",
+   "Score": 0.862
+ },
+ {
+   "#": 1207,
+   "Title": "unique-number-of-occurrences",
+   "Score": 0.862
+ },
+ {
+   "#": 766,
+   "Title": "toeplitz-matrix",
+   "Score": 0.863
+ },
+ {
+   "#": 283,
+   "Title": "move-zeroes",
+   "Score": 0.865
+ },
+ {
+   "#": 965,
+   "Title": "univalued-binary-tree",
+   "Score": 0.865
+ },
+ {
+   "#": 682,
+   "Title": "baseball-game",
+   "Score": 0.866
+ },
+ {
+   "#": 1502,
+   "Title": "can-make-arithmetic-progression-from-sequence",
+   "Score": 0.866
+ },
+ {
+   "#": 637,
+   "Title": "average-of-levels-in-binary-tree",
+   "Score": 0.867
+ },
+ {
+   "#": 1475,
+   "Title": "final-prices-with-a-special-discount-in-a-shop",
+   "Score": 0.867
+ },
+ {
+   "#": 893,
+   "Title": "groups-of-specialequivalent-strings",
+   "Score": 0.871
+ },
+ {
+   "#": 1280,
+   "Title": "students-and-examinations",
+   "Score": 0.871
+ },
+ {
+   "#": 242,
+   "Title": "valid-anagram",
+   "Score": 0.872
+ },
+ {
+   "#": 669,
+   "Title": "trim-a-binary-search-tree",
+   "Score": 0.874
+ },
+ {
+   "#": 1047,
+   "Title": "remove-all-adjacent-duplicates-in-string",
+   "Score": 0.874
+ },
+ {
+   "#": 1460,
+   "Title": "make-two-arrays-equal-by-reversing-subarrays",
+   "Score": 0.874
+ },
+ {
+   "#": 575,
+   "Title": "distribute-candies",
+   "Score": 0.876
+ },
+ {
+   "#": 21,
+   "Title": "merge-two-sorted-lists",
+   "Score": 0.877
+ },
+ {
+   "#": 806,
+   "Title": "number-of-lines-to-write-string",
+   "Score": 0.877
+ },
+ {
+   "#": 1002,
+   "Title": "find-common-characters",
+   "Score": 0.877
+ },
+ {
+   "#": 217,
+   "Title": "contains-duplicate",
+   "Score": 0.88
+ },
+ {
+   "#": 784,
+   "Title": "letter-case-permutation",
+   "Score": 0.881
+ },
+ {
+   "#": 258,
+   "Title": "add-digits",
+   "Score": 0.882
+ },
+ {
+   "#": 908,
+   "Title": "smallest-range-i",
+   "Score": 0.887
+ },
+ {
+   "#": 566,
+   "Title": "reshape-the-matrix",
+   "Score": 0.892
+ },
+ {
+   "#": 999,
+   "Title": "available-captures-for-rook",
+   "Score": 0.893
+ },
+ {
+   "#": 171,
+   "Title": "excel-sheet-column-number",
+   "Score": 0.896
+ },
+ {
+   "#": 1022,
+   "Title": "sum-of-root-to-leaf-binary-numbers",
+   "Score": 0.896
+ },
+ {
+   "#": 100,
+   "Title": "same-tree",
+   "Score": 0.897
+ },
+ {
+   "#": 762,
+   "Title": "prime-number-of-set-bits-in-binary-representation",
+   "Score": 0.897
+ },
+ {
+   "#": 872,
+   "Title": "leafsimilar-trees",
+   "Score": 0.897
+ },
+ {
+   "#": 107,
+   "Title": "binary-tree-level-order-traversal-ii",
+   "Score": 0.899
+ },
+ {
+   "#": 167,
+   "Title": "two-sum-ii--input-array-is-sorted",
+   "Score": 0.904
+ },
+ {
+   "#": 1380,
+   "Title": "lucky-numbers-in-a-matrix",
+   "Score": 0.906
+ },
+ {
+   "#": 1025,
+   "Title": "divisor-game",
+   "Score": 0.908
+ },
+ {
+   "#": 1122,
+   "Title": "relative-sort-array",
+   "Score": 0.908
+ },
+ {
+   "#": 1237,
+   "Title": "find-positive-integer-solution-for-a-given-equation",
+   "Score": 0.908
+ },
+ {
+   "#": 824,
+   "Title": "goat-latin",
+   "Score": 0.91
+ },
+ {
+   "#": 751,
+   "Title": "ip-to-cidr",
+   "Score": 0.913
+ },
+ {
+   "#": 1064,
+   "Title": "fixed-point",
+   "Score": 0.913
+ },
+ {
+   "#": 252,
+   "Title": "meeting-rooms",
+   "Score": 0.916
+ },
+ {
+   "#": 706,
+   "Title": "design-hashmap",
+   "Score": 0.919
+ },
+ {
+   "#": 1196,
+   "Title": "how-many-apples-can-you-put-into-the-basket",
+   "Score": 0.919
+ },
+ {
+   "#": 292,
+   "Title": "nim-game",
+   "Score": 0.92
+ },
+ {
+   "#": 1160,
+   "Title": "find-words-that-can-be-formed-by-characters",
+   "Score": 0.922
+ },
+ {
+   "#": 118,
+   "Title": "pascals-triangle",
+   "Score": 0.924
+ },
+ {
+   "#": 535,
+   "Title": "encode-and-decode-tinyurl",
+   "Score": 0.924
+ },
+ {
+   "#": 705,
+   "Title": "design-hashset",
+   "Score": 0.924
+ },
+ {
+   "#": 1030,
+   "Title": "matrix-cells-in-distance-order",
+   "Score": 0.924
+ },
+ {
+   "#": 1133,
+   "Title": "largest-unique-number",
+   "Score": 0.924
+ },
+ {
+   "#": 183,
+   "Title": "customers-who-never-order",
+   "Score": 0.925
+ },
+ {
+   "#": 1211,
+   "Title": "queries-quality-and-percentage",
+   "Score": 0.925
+ },
+ {
+   "#": 1403,
+   "Title": "minimum-subsequence-in-nonincreasing-order",
+   "Score": 0.925
+ },
+ {
+   "#": 1517,
+   "Title": "find-users-with-valid-emails--new",
+   "Score": 0.925
+ },
+ {
+   "#": 867,
+   "Title": "transpose-matrix",
+   "Score": 0.928
+ },
+ {
+   "#": 884,
+   "Title": "uncommon-words-from-two-sentences",
+   "Score": 0.929
+ },
+ {
+   "#": 807,
+   "Title": "max-increase-to-keep-city-skyline",
+   "Score": 0.931
+ },
+ {
+   "#": 521,
+   "Title": "longest-uncommon-subsequence-i",
+   "Score": 0.934
+ },
+ {
+   "#": 800,
+   "Title": "similar-rgb-color",
+   "Score": 0.939
+ },
+ {
+   "#": 389,
+   "Title": "find-the-difference",
+   "Score": 0.942
+ },
+ {
+   "#": 448,
+   "Title": "find-all-numbers-disappeared-in-an-array",
+   "Score": 0.945
+ },
+ {
+   "#": 1114,
+   "Title": "print-in-order",
+   "Score": 0.945
+ },
+ {
+   "#": 693,
+   "Title": "binary-number-with-alternating-bits",
+   "Score": 0.947
+ },
+ {
+   "#": 1075,
+   "Title": "project-employees-i",
+   "Score": 0.947
+ },
+ {
+   "#": 1200,
+   "Title": "minimum-absolute-difference",
+   "Score": 0.948
+ },
+ {
+   "#": 1491,
+   "Title": "average-salary-excluding-the-minimum-and-maximum-salary",
+   "Score": 0.949
+ },
+ {
+   "#": 1337,
+   "Title": "the-k-weakest-rows-in-a-matrix",
+   "Score": 0.95
+ },
+ {
+   "#": 1078,
+   "Title": "occurrences-after-bigram",
+   "Score": 0.954
+ },
+ {
+   "#": 1356,
+   "Title": "sort-integers-by-the-number-of-1-bits",
+   "Score": 0.955
+ },
+ {
+   "#": 1241,
+   "Title": "number-of-comments-per-post",
+   "Score": 0.957
+ },
+ {
+   "#": 121,
+   "Title": "best-time-to-buy-and-sell-stock",
+   "Score": 0.959
+ },
+ {
+   "#": 256,
+   "Title": "paint-house",
+   "Score": 0.964
+ },
+ {
+   "#": 9,
+   "Title": "palindrome-number",
+   "Score": 0.967
+ },
+ {
+   "#": 512,
+   "Title": "game-play-analysis-ii",
+   "Score": 0.969
+ },
+ {
+   "#": 485,
+   "Title": "max-consecutive-ones",
+   "Score": 0.972
+ },
+ {
+   "#": 868,
+   "Title": "binary-gap",
+   "Score": 0.973
+ },
+ {
+   "#": 1441,
+   "Title": "build-an-array-with-stack-operations",
+   "Score": 0.973
+ },
+ {
+   "#": 27,
+   "Title": "remove-element",
+   "Score": 0.974
+ },
+ {
+   "#": 268,
+   "Title": "missing-number",
+   "Score": 0.975
+ },
+ {
+   "#": 387,
+   "Title": "first-unique-character-in-a-string",
+   "Score": 0.975
+ },
+ {
+   "#": 257,
+   "Title": "binary-tree-paths",
+   "Score": 0.979
+ },
+ {
+   "#": 383,
+   "Title": "ransom-note",
+   "Score": 0.98
+ },
+ {
+   "#": 1113,
+   "Title": "reported-posts",
+   "Score": 0.98
+ },
+ {
+   "#": 202,
+   "Title": "happy-number",
+   "Score": 0.981
+ },
+ {
+   "#": 654,
+   "Title": "maximum-binary-tree",
+   "Score": 0.982
+ },
+ {
+   "#": 538,
+   "Title": "convert-bst-to-greater-tree",
+   "Score": 0.983
+ },
+ {
+   "#": 690,
+   "Title": "employee-importance",
+   "Score": 0.987
+ },
+ {
+   "#": 1385,
+   "Title": "find-the-distance-value-between-two-arrays",
+   "Score": 0.987
+ },
+ {
+   "#": 119,
+   "Title": "pascals-triangle-ii",
+   "Score": 0.988
+ },
+ {
+   "#": 985,
+   "Title": "sum-of-even-numbers-after-queries",
+   "Score": 0.988
+ },
+ {
+   "#": 1046,
+   "Title": "last-stone-weight",
+   "Score": 0.99
+ },
+ {
+   "#": 1185,
+   "Title": "day-of-the-week",
+   "Score": 0.992
+ },
+ {
+   "#": 191,
+   "Title": "number-of-1-bits",
+   "Score": 0.994
+ },
+ {
+   "#": 1217,
+   "Title": "play-with-chips",
+   "Score": 0.997
+ },
+ {
+   "#": 812,
+   "Title": "largest-triangle-area",
+   "Score": 1
+ },
+ {
+   "#": 235,
+   "Title": "lowest-common-ancestor-of-a-binary-search-tree",
+   "Score": 1.001
+ },
+ {
+   "#": 70,
+   "Title": "climbing-stairs",
+   "Score": 1.002
+ },
+ {
+   "#": 350,
+   "Title": "intersection-of-two-arrays-ii",
+   "Score": 1.004
+ },
+ {
+   "#": 232,
+   "Title": "implement-queue-using-stacks",
+   "Score": 1.009
+ },
+ {
+   "#": 530,
+   "Title": "minimum-absolute-difference-in-bst",
+   "Score": 1.009
+ },
+ {
+   "#": 653,
+   "Title": "two-sum-iv--input-is-a-bst",
+   "Score": 1.009
+ },
+ {
+   "#": 520,
+   "Title": "detect-capital",
+   "Score": 1.01
+ },
+ {
+   "#": 892,
+   "Title": "surface-area-of-3d-shapes",
+   "Score": 1.011
+ },
+ {
+   "#": 748,
+   "Title": "shortest-completing-word",
+   "Score": 1.012
+ },
+ {
+   "#": 788,
+   "Title": "rotated-digits",
+   "Score": 1.012
+ },
+ {
+   "#": 1,
+   "Title": "two-sum",
+   "Score": 1.013
+ },
+ {
+   "#": 53,
+   "Title": "maximum-subarray",
+   "Score": 1.013
+ },
+ {
+   "#": 696,
+   "Title": "count-binary-substrings",
+   "Score": 1.013
+ },
+ {
+   "#": 371,
+   "Title": "sum-of-two-integers",
+   "Score": 1.019
+ },
+ {
+   "#": 101,
+   "Title": "symmetric-tree",
+   "Score": 1.02
+ },
+ {
+   "#": 447,
+   "Title": "number-of-boomerangs",
+   "Score": 1.02
+ },
+ {
+   "#": 606,
+   "Title": "construct-string-from-binary-tree",
+   "Score": 1.022
+ },
+ {
+   "#": 404,
+   "Title": "sum-of-left-leaves",
+   "Score": 1.025
+ },
+ {
+   "#": 1065,
+   "Title": "index-pairs-of-a-string",
+   "Score": 1.025
+ },
+ {
+   "#": 888,
+   "Title": "fair-candy-swap",
+   "Score": 1.028
+ },
+ {
+   "#": 1009,
+   "Title": "complement-of-base-10-integer",
+   "Score": 1.03
+ },
+ {
+   "#": 26,
+   "Title": "remove-duplicates-from-sorted-array",
+   "Score": 1.031
+ },
+ {
+   "#": 896,
+   "Title": "monotonic-array",
+   "Score": 1.031
+ },
+ {
+   "#": 1476,
+   "Title": "subrectangle-queries",
+   "Score": 1.033
+ },
+ {
+   "#": 733,
+   "Title": "flood-fill",
+   "Score": 1.034
+ },
+ {
+   "#": 1399,
+   "Title": "count-largest-group",
+   "Score": 1.034
+ },
+ {
+   "#": 917,
+   "Title": "reverse-only-letters",
+   "Score": 1.036
+ },
+ {
+   "#": 1099,
+   "Title": "two-sum-less-than-k",
+   "Score": 1.036
+ },
+ {
+   "#": 1413,
+   "Title": "minimum-value-to-get-positive-step-by-step-sum",
+   "Score": 1.036
+ },
+ {
+   "#": 1103,
+   "Title": "distribute-candies-to-people",
+   "Score": 1.037
+ },
+ {
+   "#": 1394,
+   "Title": "find-lucky-integer-in-an-array",
+   "Score": 1.038
+ },
+ {
+   "#": 409,
+   "Title": "longest-palindrome",
+   "Score": 1.039
+ },
+ {
+   "#": 1393,
+   "Title": "capital-gainloss",
+   "Score": 1.042
+ },
+ {
+   "#": 67,
+   "Title": "add-binary",
+   "Score": 1.043
+ },
+ {
+   "#": 83,
+   "Title": "remove-duplicates-from-sorted-list",
+   "Score": 1.043
+ },
+ {
+   "#": 270,
+   "Title": "closest-binary-search-tree-value",
+   "Score": 1.044
+ },
+ {
+   "#": 38,
+   "Title": "count-and-say",
+   "Score": 1.046
+ },
+ {
+   "#": 1189,
+   "Title": "maximum-number-of-balloons",
+   "Score": 1.047
+ },
+ {
+   "#": 1294,
+   "Title": "weather-type-in-each-country",
+   "Score": 1.048
+ },
+ {
+   "#": 1455,
+   "Title": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+   "Score": 1.049
+ },
+ {
+   "#": 1270,
+   "Title": "all-people-report-to-the-given-manager",
+   "Score": 1.052
+ },
+ {
+   "#": 453,
+   "Title": "minimum-moves-to-equal-array-elements",
+   "Score": 1.053
+ },
+ {
+   "#": 697,
+   "Title": "degree-of-an-array",
+   "Score": 1.053
+ },
+ {
+   "#": 976,
+   "Title": "largest-perimeter-triangle",
+   "Score": 1.054
+ },
+ {
+   "#": 392,
+   "Title": "is-subsequence",
+   "Score": 1.055
+ },
+ {
+   "#": 1518,
+   "Title": "water-bottles",
+   "Score": 1.055
+ },
+ {
+   "#": 455,
+   "Title": "assign-cookies",
+   "Score": 1.059
+ },
+ {
+   "#": 534,
+   "Title": "game-play-analysis-iii",
+   "Score": 1.059
+ },
+ {
+   "#": 701,
+   "Title": "insert-into-a-binary-search-tree",
+   "Score": 1.06
+ },
+ {
+   "#": 1260,
+   "Title": "shift-2d-grid",
+   "Score": 1.063
+ },
+ {
+   "#": 506,
+   "Title": "relative-ranks",
+   "Score": 1.064
+ },
+ {
+   "#": 1150,
+   "Title": "check-if-a-number-is-majority-element-in-a-sorted-array",
+   "Score": 1.068
+ },
+ {
+   "#": 492,
+   "Title": "construct-the-rectangle",
+   "Score": 1.075
+ },
+ {
+   "#": 35,
+   "Title": "search-insert-position",
+   "Score": 1.078
+ },
+ {
+   "#": 66,
+   "Title": "plus-one",
+   "Score": 1.079
+ },
+ {
+   "#": 544,
+   "Title": "output-contest-matches",
+   "Score": 1.08
+ },
+ {
+   "#": 155,
+   "Title": "min-stack",
+   "Score": 1.081
+ },
+ {
+   "#": 599,
+   "Title": "minimum-index-sum-of-two-lists",
+   "Score": 1.082
+ },
+ {
+   "#": 110,
+   "Title": "balanced-binary-tree",
+   "Score": 1.084
+ },
+ {
+   "#": 661,
+   "Title": "image-smoother",
+   "Score": 1.086
+ },
+ {
+   "#": 704,
+   "Title": "binary-search",
+   "Score": 1.088
+ },
+ {
+   "#": 225,
+   "Title": "implement-stack-using-queues",
+   "Score": 1.089
+ },
+ {
+   "#": 401,
+   "Title": "binary-watch",
+   "Score": 1.089
+ },
+ {
+   "#": 1170,
+   "Title": "compare-strings-by-frequency-of-the-smallest-character",
+   "Score": 1.091
+ },
+ {
+   "#": 246,
+   "Title": "strobogrammatic-number",
+   "Score": 1.093
+ },
+ {
+   "#": 415,
+   "Title": "add-strings",
+   "Score": 1.093
+ },
+ {
+   "#": 1287,
+   "Title": "element-appearing-more-than-25-in-sorted-array",
+   "Score": 1.096
+ },
+ {
+   "#": 1118,
+   "Title": "number-of-days-in-a-month",
+   "Score": 1.097
+ },
+ {
+   "#": 783,
+   "Title": "minimum-distance-between-bst-nodes",
+   "Score": 1.098
+ },
+ {
+   "#": 1029,
+   "Title": "two-city-scheduling",
+   "Score": 1.1
+ },
+ {
+   "#": 598,
+   "Title": "range-addition-ii",
+   "Score": 1.102
+ },
+ {
+   "#": 1408,
+   "Title": "string-matching-in-an-array",
+   "Score": 1.105
+ },
+ {
+   "#": 937,
+   "Title": "reorder-data-in-log-files",
+   "Score": 1.107
+ },
+ {
+   "#": 1445,
+   "Title": "apples--oranges",
+   "Score": 1.107
+ },
+ {
+   "#": 541,
+   "Title": "reverse-string-ii",
+   "Score": 1.111
+ },
+ {
+   "#": 543,
+   "Title": "diameter-of-binary-tree",
+   "Score": 1.111
+ },
+ {
+   "#": 563,
+   "Title": "binary-tree-tilt",
+   "Score": 1.111
+ },
+ {
+   "#": 953,
+   "Title": "verifying-an-alien-dictionary",
+   "Score": 1.111
+ },
+ {
+   "#": 231,
+   "Title": "power-of-two",
+   "Score": 1.112
+ },
+ {
+   "#": 1332,
+   "Title": "remove-palindromic-subsequences",
+   "Score": 1.116
+ },
+ {
+   "#": 303,
+   "Title": "range-sum-query--immutable",
+   "Score": 1.12
+ },
+ {
+   "#": 437,
+   "Title": "path-sum-iii",
+   "Score": 1.125
+ },
+ {
+   "#": 1446,
+   "Title": "consecutive-characters",
+   "Score": 1.125
+ },
+ {
+   "#": 112,
+   "Title": "path-sum",
+   "Score": 1.129
+ },
+ {
+   "#": 703,
+   "Title": "kth-largest-element-in-a-stream",
+   "Score": 1.129
+ },
+ {
+   "#": 1137,
+   "Title": "nth-tribonacci-number",
+   "Score": 1.13
+ },
+ {
+   "#": 746,
+   "Title": "min-cost-climbing-stairs",
+   "Score": 1.131
+ },
+ {
+   "#": 198,
+   "Title": "house-robber",
+   "Score": 1.134
+ },
+ {
+   "#": 345,
+   "Title": "reverse-vowels-of-a-string",
+   "Score": 1.135
+ },
+ {
+   "#": 860,
+   "Title": "lemonade-change",
+   "Score": 1.136
+ },
+ {
+   "#": 1038,
+   "Title": "binary-search-tree-to-greater-sum-tree",
+   "Score": 1.137
+ },
+ {
+   "#": 1331,
+   "Title": "rank-transform-of-an-array",
+   "Score": 1.138
+ },
+ {
+   "#": 141,
+   "Title": "linked-list-cycle",
+   "Score": 1.139
+ },
+ {
+   "#": 504,
+   "Title": "base-7",
+   "Score": 1.141
+ },
+ {
+   "#": 1507,
+   "Title": "reformat-date",
+   "Score": 1.142
+ },
+ {
+   "#": 20,
+   "Title": "valid-parentheses",
+   "Score": 1.143
+ },
+ {
+   "#": 1282,
+   "Title": "group-the-people-given-the-group-size-they-belong-to",
+   "Score": 1.146
+ },
+ {
+   "#": 366,
+   "Title": "find-leaves-of-binary-tree",
+   "Score": 1.148
+ },
+ {
+   "#": 1084,
+   "Title": "sales-analysis-iii",
+   "Score": 1.149
+ },
+ {
+   "#": 717,
+   "Title": "1bit-and-2bit-characters",
+   "Score": 1.153
+ },
+ {
+   "#": 1322,
+   "Title": "ads-performance",
+   "Score": 1.153
+ },
+ {
+   "#": 88,
+   "Title": "merge-sorted-array",
+   "Score": 1.154
+ },
+ {
+   "#": 796,
+   "Title": "rotate-string",
+   "Score": 1.154
+ },
+ {
+   "#": 299,
+   "Title": "bulls-and-cows",
+   "Score": 1.156
+ },
+ {
+   "#": 551,
+   "Title": "student-attendance-record-i",
+   "Score": 1.156
+ },
+ {
+   "#": 160,
+   "Title": "intersection-of-two-linked-lists",
+   "Score": 1.157
+ },
+ {
+   "#": 405,
+   "Title": "convert-a-number-to-hexadecimal",
+   "Score": 1.157
+ },
+ {
+   "#": 628,
+   "Title": "maximum-product-of-three-numbers",
+   "Score": 1.158
+ },
+ {
+   "#": 594,
+   "Title": "longest-harmonious-subsequence",
+   "Score": 1.159
+ },
+ {
+   "#": 1426,
+   "Title": "counting-elements",
+   "Score": 1.159
+ },
+ {
+   "#": 196,
+   "Title": "delete-duplicate-emails",
+   "Score": 1.16
+ },
+ {
+   "#": 1076,
+   "Title": "project-employees-ii",
+   "Score": 1.16
+ },
+ {
+   "#": 263,
+   "Title": "ugly-number",
+   "Score": 1.161
+ },
+ {
+   "#": 720,
+   "Title": "longest-word-in-dictionary",
+   "Score": 1.163
+ },
+ {
+   "#": 1013,
+   "Title": "partition-array-into-three-parts-with-equal-sum",
+   "Score": 1.163
+ },
+ {
+   "#": 1071,
+   "Title": "greatest-common-divisor-of-strings",
+   "Score": 1.164
+ },
+ {
+   "#": 1317,
+   "Title": "convert-integer-to-the-sum-of-two-nozero-integers",
+   "Score": 1.164
+ },
+ {
+   "#": 993,
+   "Title": "cousins-in-binary-tree",
+   "Score": 1.165
+ },
+ {
+   "#": 1089,
+   "Title": "duplicate-zeros",
+   "Score": 1.165
+ },
+ {
+   "#": 1141,
+   "Title": "user-activity-for-the-past-30-days-i",
+   "Score": 1.165
+ },
+ {
+   "#": 763,
+   "Title": "partition-labels",
+   "Score": 1.166
+ },
+ {
+   "#": 1302,
+   "Title": "deepest-leaves-sum",
+   "Score": 1.166
+ },
+ {
+   "#": 374,
+   "Title": "guess-number-higher-or-lower",
+   "Score": 1.167
+ },
+ {
+   "#": 338,
+   "Title": "counting-bits",
+   "Score": 1.168
+ },
+ {
+   "#": 326,
+   "Title": "power-of-three",
+   "Score": 1.169
+ },
+ {
+   "#": 830,
+   "Title": "positions-of-large-groups",
+   "Score": 1.169
+ },
+ {
+   "#": 1184,
+   "Title": "distance-between-bus-stops",
+   "Score": 1.169
+ },
+ {
+   "#": 1285,
+   "Title": "find-the-start-and-end-number-of-continuous-ranges",
+   "Score": 1.171
+ },
+ {
+   "#": 1315,
+   "Title": "sum-of-nodes-with-evenvalued-grandparent",
+   "Score": 1.175
+ },
+ {
+   "#": 1176,
+   "Title": "diet-plan-performance",
+   "Score": 1.178
+ },
+ {
+   "#": 1308,
+   "Title": "running-total-for-different-genders",
+   "Score": 1.178
+ },
+ {
+   "#": 205,
+   "Title": "isomorphic-strings",
+   "Score": 1.179
+ },
+ {
+   "#": 190,
+   "Title": "reverse-bits",
+   "Score": 1.18
+ },
+ {
+   "#": 342,
+   "Title": "power-of-four",
+   "Score": 1.181
+ },
+ {
+   "#": 1490,
+   "Title": "clone-nary-tree",
+   "Score": 1.181
+ },
+ {
+   "#": 836,
+   "Title": "rectangle-overlap",
+   "Score": 1.182
+ },
+ {
+   "#": 1005,
+   "Title": "maximize-sum-of-array-after-k-negations",
+   "Score": 1.183
+ },
+ {
+   "#": 367,
+   "Title": "valid-perfect-square",
+   "Score": 1.188
+ },
+ {
+   "#": 482,
+   "Title": "license-key-formatting",
+   "Score": 1.191
+ },
+ {
+   "#": 674,
+   "Title": "longest-continuous-increasing-subsequence",
+   "Score": 1.192
+ },
+ {
+   "#": 419,
+   "Title": "battleships-in-a-board",
+   "Score": 1.194
+ },
+ {
+   "#": 1008,
+   "Title": "construct-binary-search-tree-from-preorder-traversal",
+   "Score": 1.195
+ },
+ {
+   "#": 1379,
+   "Title": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+   "Score": 1.196
+ },
+ {
+   "#": 572,
+   "Title": "subtree-of-another-tree",
+   "Score": 1.197
+ },
+ {
+   "#": 111,
+   "Title": "minimum-depth-of-binary-tree",
+   "Score": 1.198
+ },
+ {
+   "#": 234,
+   "Title": "palindrome-linked-list",
+   "Score": 1.198
+ },
+ {
+   "#": 441,
+   "Title": "arranging-coins",
+   "Score": 1.202
+ },
+ {
+   "#": 459,
+   "Title": "repeated-substring-pattern",
+   "Score": 1.202
+ },
+ {
+   "#": 997,
+   "Title": "find-the-town-judge",
+   "Score": 1.202
+ },
+ {
+   "#": 197,
+   "Title": "rising-temperature",
+   "Score": 1.203
+ },
+ {
+   "#": 1271,
+   "Title": "hexspeak",
+   "Score": 1.204
+ },
+ {
+   "#": 172,
+   "Title": "factorial-trailing-zeroes",
+   "Score": 1.205
+ },
+ {
+   "#": 797,
+   "Title": "all-paths-from-source-to-target",
+   "Score": 1.208
+ },
+ {
+   "#": 14,
+   "Title": "longest-common-prefix",
+   "Score": 1.209
+ },
+ {
+   "#": 203,
+   "Title": "remove-linked-list-elements",
+   "Score": 1.21
+ },
+ {
+   "#": 1228,
+   "Title": "missing-number-in-arithmetic-progression",
+   "Score": 1.214
+ },
+ {
+   "#": 501,
+   "Title": "find-mode-in-binary-search-tree",
+   "Score": 1.215
+ },
+ {
+   "#": 443,
+   "Title": "string-compression",
+   "Score": 1.218
+ },
+ {
+   "#": 758,
+   "Title": "bold-words-in-string",
+   "Score": 1.218
+ },
+ {
+   "#": 1083,
+   "Title": "sales-analysis-ii",
+   "Score": 1.218
+ },
+ {
+   "#": 744,
+   "Title": "find-smallest-letter-greater-than-target",
+   "Score": 1.22
+ },
+ {
+   "#": 1417,
+   "Title": "reformat-the-string",
+   "Score": 1.221
+ },
+ {
+   "#": 219,
+   "Title": "contains-duplicate-ii",
+   "Score": 1.222
+ },
+ {
+   "#": 276,
+   "Title": "paint-fence",
+   "Score": 1.226
+ },
+ {
+   "#": 1275,
+   "Title": "find-winner-on-a-tic-tac-toe-game",
+   "Score": 1.227
+ },
+ {
+   "#": 28,
+   "Title": "implement-strstr",
+   "Score": 1.229
+ },
+ {
+   "#": 844,
+   "Title": "backspace-string-compare",
+   "Score": 1.229
+ },
+ {
+   "#": 125,
+   "Title": "valid-palindrome",
+   "Score": 1.23
+ },
+ {
+   "#": 1496,
+   "Title": "path-crossing",
+   "Score": 1.23
+ },
+ {
+   "#": 619,
+   "Title": "biggest-single-number",
+   "Score": 1.232
+ },
+ {
+   "#": 814,
+   "Title": "binary-tree-pruning",
+   "Score": 1.233
+ },
+ {
+   "#": 46,
+   "Title": "permutations",
+   "Score": 1.234
+ },
+ {
+   "#": 1422,
+   "Title": "maximum-score-after-splitting-a-string",
+   "Score": 1.234
+ },
+ {
+   "#": 1175,
+   "Title": "prime-arrangements",
+   "Score": 1.235
+ },
+ {
+   "#": 1056,
+   "Title": "confusing-number",
+   "Score": 1.24
+ },
+ {
+   "#": 724,
+   "Title": "find-pivot-index",
+   "Score": 1.244
+ },
+ {
+   "#": 1042,
+   "Title": "flower-planting-with-no-adjacent",
+   "Score": 1.244
+ },
+ {
+   "#": 671,
+   "Title": "second-minimum-node-in-a-binary-tree",
+   "Score": 1.248
+ },
+ {
+   "#": 22,
+   "Title": "generate-parentheses",
+   "Score": 1.249
+ },
+ {
+   "#": 69,
+   "Title": "sqrtx",
+   "Score": 1.252
+ },
+ {
+   "#": 1243,
+   "Title": "array-transformation",
+   "Score": 1.252
+ },
+ {
+   "#": 290,
+   "Title": "word-pattern",
+   "Score": 1.254
+ },
+ {
+   "#": 645,
+   "Title": "set-mismatch",
+   "Score": 1.254
+ },
+ {
+   "#": 1010,
+   "Title": "pairs-of-songs-with-total-durations-divisible-by-60",
+   "Score": 1.254
+ },
+ {
+   "#": 1018,
+   "Title": "binary-prefix-divisible-by-5",
+   "Score": 1.254
+ },
+ {
+   "#": 819,
+   "Title": "most-common-word",
+   "Score": 1.255
+ },
+ {
+   "#": 894,
+   "Title": "all-possible-full-binary-trees",
+   "Score": 1.255
+ },
+ {
+   "#": 94,
+   "Title": "binary-tree-inorder-traversal",
+   "Score": 1.26
+ },
+ {
+   "#": 1154,
+   "Title": "day-of-the-year",
+   "Score": 1.261
+ },
+ {
+   "#": 597,
+   "Title": "friend-requests-i-overall-acceptance-rate",
+   "Score": 1.264
+ },
+ {
+   "#": 643,
+   "Title": "maximum-average-subarray-i",
+   "Score": 1.265
+ },
+ {
+   "#": 1427,
+   "Title": "perform-string-shifts",
+   "Score": 1.265
+ },
+ {
+   "#": 716,
+   "Title": "max-stack",
+   "Score": 1.266
+ },
+ {
+   "#": 58,
+   "Title": "length-of-last-word",
+   "Score": 1.271
+ },
+ {
+   "#": 189,
+   "Title": "rotate-array",
+   "Score": 1.271
+ },
+ {
+   "#": 157,
+   "Title": "read-n-characters-given-read4",
+   "Score": 1.274
+ },
+ {
+   "#": 422,
+   "Title": "valid-word-square",
+   "Score": 1.275
+ },
+ {
+   "#": 278,
+   "Title": "first-bad-version",
+   "Score": 1.277
+ },
+ {
+   "#": 434,
+   "Title": "number-of-segments-in-a-string",
+   "Score": 1.279
+ },
+ {
+   "#": 734,
+   "Title": "sentence-similarity",
+   "Score": 1.281
+ },
+ {
+   "#": 1409,
+   "Title": "queries-on-a-permutation-with-key",
+   "Score": 1.283
+ },
+ {
+   "#": 747,
+   "Title": "largest-number-at-least-twice-of-others",
+   "Score": 1.286
+ },
+ {
+   "#": 170,
+   "Title": "two-sum-iii--data-structure-design",
+   "Score": 1.287
+ },
+ {
+   "#": 406,
+   "Title": "queue-reconstruction-by-height",
+   "Score": 1.289
+ },
+ {
+   "#": 1128,
+   "Title": "number-of-equivalent-domino-pairs",
+   "Score": 1.289
+ },
+ {
+   "#": 1395,
+   "Title": "count-number-of-teams",
+   "Score": 1.289
+ },
+ {
+   "#": 1495,
+   "Title": "friendly-movies-streamed-last-month",
+   "Score": 1.291
+ },
+ {
+   "#": 950,
+   "Title": "reveal-cards-in-increasing-order",
+   "Score": 1.298
+ },
+ {
+   "#": 78,
+   "Title": "subsets",
+   "Score": 1.299
+ },
+ {
+   "#": 195,
+   "Title": "tenth-line",
+   "Score": 1.301
+ },
+ {
+   "#": 849,
+   "Title": "maximize-distance-to-closest-person",
+   "Score": 1.301
+ },
+ {
+   "#": 890,
+   "Title": "find-and-replace-pattern",
+   "Score": 1.306
+ },
+ {
+   "#": 989,
+   "Title": "add-to-arrayform-of-integer",
+   "Score": 1.309
+ },
+ {
+   "#": 624,
+   "Title": "maximum-distance-in-arrays",
+   "Score": 1.31
+ },
+ {
+   "#": 1360,
+   "Title": "number-of-days-between-two-dates",
+   "Score": 1.312
+ },
+ {
+   "#": 921,
+   "Title": "minimum-add-to-make-parentheses-valid",
+   "Score": 1.314
+ },
+ {
+   "#": 861,
+   "Title": "score-after-flipping-matrix",
+   "Score": 1.315
+ },
+ {
+   "#": 596,
+   "Title": "classes-more-than-5-students",
+   "Score": 1.317
+ },
+ {
+   "#": 1485,
+   "Title": "clone-binary-tree-with-random-pointer",
+   "Score": 1.32
+ },
+ {
+   "#": 1398,
+   "Title": "customers-who-bought-products-a-and-b-but-not-c",
+   "Score": 1.324
+ },
+ {
+   "#": 176,
+   "Title": "second-highest-salary",
+   "Score": 1.326
+ },
+ {
+   "#": 1079,
+   "Title": "letter-tile-possibilities",
+   "Score": 1.328
+ },
+ {
+   "#": 280,
+   "Title": "wiggle-sort",
+   "Score": 1.33
+ },
+ {
+   "#": 168,
+   "Title": "excel-sheet-column-title",
+   "Score": 1.333
+ },
+ {
+   "#": 204,
+   "Title": "count-primes",
+   "Score": 1.333
+ },
+ {
+   "#": 442,
+   "Title": "find-all-duplicates-in-an-array",
+   "Score": 1.333
+ },
+ {
+   "#": 537,
+   "Title": "complex-number-multiplication",
+   "Score": 1.333
+ },
+ {
+   "#": 604,
+   "Title": "design-compressed-string-iterator",
+   "Score": 1.333
+ },
+ {
+   "#": 1077,
+   "Title": "project-employees-iii",
+   "Score": 1.336
+ },
+ {
+   "#": 1421,
+   "Title": "npv-queries",
+   "Score": 1.338
+ },
+ {
+   "#": 507,
+   "Title": "perfect-number",
+   "Score": 1.34
+ },
+ {
+   "#": 925,
+   "Title": "long-pressed-name",
+   "Score": 1.349
+ },
+ {
+   "#": 1232,
+   "Title": "check-if-it-is-a-straight-line",
+   "Score": 1.35
+ },
+ {
+   "#": 1329,
+   "Title": "sort-the-matrix-diagonally",
+   "Score": 1.353
+ },
+ {
+   "#": 429,
+   "Title": "nary-tree-level-order-traversal",
+   "Score": 1.366
+ },
+ {
+   "#": 680,
+   "Title": "valid-palindrome-ii",
+   "Score": 1.366
+ },
+ {
+   "#": 723,
+   "Title": "candy-crush",
+   "Score": 1.366
+ },
+ {
+   "#": 362,
+   "Title": "design-hit-counter",
+   "Score": 1.373
+ },
+ {
+   "#": 1033,
+   "Title": "moving-stones-until-consecutive",
+   "Score": 1.373
+ },
+ {
+   "#": 475,
+   "Title": "heaters",
+   "Score": 1.376
+ },
+ {
+   "#": 687,
+   "Title": "longest-univalue-path",
+   "Score": 1.378
+ },
+ {
+   "#": 7,
+   "Title": "reverse-integer",
+   "Score": 1.384
+ },
+ {
+   "#": 1506,
+   "Title": "find-root-of-nary-tree",
+   "Score": 1.385
+ },
+ {
+   "#": 608,
+   "Title": "tree-node",
+   "Score": 1.386
+ },
+ {
+   "#": 970,
+   "Title": "powerful-integers",
+   "Score": 1.386
+ },
+ {
+   "#": 570,
+   "Title": "managers-with-at-least-5-direct-reports",
+   "Score": 1.394
+ },
+ {
+   "#": 260,
+   "Title": "single-number-iii",
+   "Score": 1.399
+ },
+ {
+   "#": 840,
+   "Title": "magic-squares-in-grid",
+   "Score": 1.399
+ },
+ {
+   "#": 364,
+   "Title": "nested-list-weight-sum-ii",
+   "Score": 1.4
+ },
+ {
+   "#": 370,
+   "Title": "range-addition",
+   "Score": 1.403
+ },
+ {
+   "#": 1198,
+   "Title": "find-smallest-common-element-in-all-rows",
+   "Score": 1.405
+ },
+ {
+   "#": 408,
+   "Title": "valid-word-abbreviation",
+   "Score": 1.408
+ },
+ {
+   "#": 414,
+   "Title": "third-maximum-number",
+   "Score": 1.409
+ },
+ {
+   "#": 311,
+   "Title": "sparse-matrix-multiplication",
+   "Score": 1.411
+ },
+ {
+   "#": 1305,
+   "Title": "all-elements-in-two-binary-search-trees",
+   "Score": 1.417
+ },
+ {
+   "#": 532,
+   "Title": "kdiff-pairs-in-an-array",
+   "Score": 1.423
+ },
+ {
+   "#": 230,
+   "Title": "kth-smallest-element-in-a-bst",
+   "Score": 1.428
+ },
+ {
+   "#": 238,
+   "Title": "product-of-array-except-self",
+   "Score": 1.432
+ },
+ {
+   "#": 1100,
+   "Title": "find-klength-substrings-with-no-repeated-characters",
+   "Score": 1.433
+ },
+ {
+   "#": 633,
+   "Title": "sum-of-square-numbers",
+   "Score": 1.435
+ },
+ {
+   "#": 451,
+   "Title": "sort-characters-by-frequency",
+   "Score": 1.436
+ },
+ {
+   "#": 702,
+   "Title": "search-in-a-sorted-array-of-unknown-size",
+   "Score": 1.438
+ },
+ {
+   "#": 885,
+   "Title": "spiral-matrix-iii",
+   "Score": 1.438
+ },
+ {
+   "#": 605,
+   "Title": "can-place-flowers",
+   "Score": 1.439
+ },
+ {
+   "#": 1037,
+   "Title": "valid-boomerang",
+   "Score": 1.44
+ },
+ {
+   "#": 193,
+   "Title": "valid-phone-numbers",
+   "Score": 1.444
+ },
+ {
+   "#": 581,
+   "Title": "shortest-unsorted-continuous-subarray",
+   "Score": 1.444
+ },
+ {
+   "#": 347,
+   "Title": "top-k-frequent-elements",
+   "Score": 1.445
+ },
+ {
+   "#": 874,
+   "Title": "walking-robot-simulation",
+   "Score": 1.445
+ },
+ {
+   "#": 949,
+   "Title": "largest-time-for-given-digits",
+   "Score": 1.447
+ },
+ {
+   "#": 686,
+   "Title": "repeated-string-match",
+   "Score": 1.448
+ },
+ {
+   "#": 49,
+   "Title": "group-anagrams",
+   "Score": 1.452
+ },
+ {
+   "#": 1104,
+   "Title": "path-in-zigzag-labelled-binary-tree",
+   "Score": 1.458
+ },
+ {
+   "#": 1261,
+   "Title": "find-elements-in-a-contaminated-binary-tree",
+   "Score": 1.461
+ },
+ {
+   "#": 48,
+   "Title": "rotate-image",
+   "Score": 1.462
+ },
+ {
+   "#": 750,
+   "Title": "number-of-corner-rectangles",
+   "Score": 1.465
+ },
+ {
+   "#": 914,
+   "Title": "x-of-a-kind-in-a-deck-of-cards",
+   "Score": 1.469
+ },
+ {
+   "#": 1161,
+   "Title": "maximum-level-sum-of-a-binary-tree",
+   "Score": 1.472
+ },
+ {
+   "#": 39,
+   "Title": "combination-sum",
+   "Score": 1.474
+ },
+ {
+   "#": 1468,
+   "Title": "calculate-salaries",
+   "Score": 1.476
+ },
+ {
+   "#": 427,
+   "Title": "construct-quad-tree",
+   "Score": 1.477
+ },
+ {
+   "#": 1347,
+   "Title": "minimum-number-of-steps-to-make-two-strings-anagram",
+   "Score": 1.483
+ },
+ {
+   "#": 12,
+   "Title": "integer-to-roman",
+   "Score": 1.487
+ },
+ {
+   "#": 1364,
+   "Title": "number-of-trusted-contacts-of-a-customer",
+   "Score": 1.488
+ },
+ {
+   "#": 1314,
+   "Title": "matrix-block-sum",
+   "Score": 1.493
+ },
+ {
+   "#": 941,
+   "Title": "valid-mountain-array",
+   "Score": 1.494
+ },
+ {
+   "#": 1382,
+   "Title": "balance-a-binary-search-tree",
+   "Score": 1.5
+ },
+ {
+   "#": 979,
+   "Title": "distribute-coins-in-binary-tree",
+   "Score": 1.503
+ },
+ {
+   "#": 791,
+   "Title": "custom-sort-string",
+   "Score": 1.504
+ },
+ {
+   "#": 281,
+   "Title": "zigzag-iterator",
+   "Score": 1.505
+ },
+ {
+   "#": 1277,
+   "Title": "count-square-submatrices-with-all-ones",
+   "Score": 1.505
+ },
+ {
+   "#": 1381,
+   "Title": "design-a-stack-with-increment-operation",
+   "Score": 1.506
+ },
+ {
+   "#": 1111,
+   "Title": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+   "Score": 1.51
+ },
+ {
+   "#": 513,
+   "Title": "find-bottom-left-tree-value",
+   "Score": 1.518
+ },
+ {
+   "#": 1346,
+   "Title": "check-if-n-and-its-double-exist",
+   "Score": 1.518
+ },
+ {
+   "#": 173,
+   "Title": "binary-search-tree-iterator",
+   "Score": 1.522
+ },
+ {
+   "#": 1325,
+   "Title": "delete-leaves-with-a-given-value",
+   "Score": 1.525
+ },
+ {
+   "#": 515,
+   "Title": "find-largest-value-in-each-tree-row",
+   "Score": 1.529
+ },
+ {
+   "#": 1142,
+   "Title": "user-activity-for-the-past-30-days-ii",
+   "Score": 1.53
+ },
+ {
+   "#": 144,
+   "Title": "binary-tree-preorder-traversal",
+   "Score": 1.534
+ },
+ {
+   "#": 484,
+   "Title": "find-permutation",
+   "Score": 1.534
+ },
+ {
+   "#": 1188,
+   "Title": "design-bounded-blocking-queue",
+   "Score": 1.534
+ },
+ {
+   "#": 64,
+   "Title": "minimum-path-sum",
+   "Score": 1.535
+ },
+ {
+   "#": 969,
+   "Title": "pancake-sorting",
+   "Score": 1.537
+ },
+ {
+   "#": 77,
+   "Title": "combinations",
+   "Score": 1.538
+ },
+ {
+   "#": 216,
+   "Title": "combination-sum-iii",
+   "Score": 1.539
+ },
+ {
+   "#": 62,
+   "Title": "unique-paths",
+   "Score": 1.547
+ },
+ {
+   "#": 889,
+   "Title": "construct-binary-tree-from-preorder-and-postorder-traversal",
+   "Score": 1.548
+ },
+ {
+   "#": 102,
+   "Title": "binary-tree-level-order-traversal",
+   "Score": 1.55
+ },
+ {
+   "#": 1112,
+   "Title": "highest-grade-for-each-student",
+   "Score": 1.55
+ },
+ {
+   "#": 986,
+   "Title": "interval-list-intersections",
+   "Score": 1.552
+ },
+ {
+   "#": 626,
+   "Title": "exchange-seats",
+   "Score": 1.553
+ },
+ {
+   "#": 369,
+   "Title": "plus-one-linked-list",
+   "Score": 1.554
+ },
+ {
+   "#": 426,
+   "Title": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+   "Score": 1.555
+ },
+ {
+   "#": 59,
+   "Title": "spiral-matrix-ii",
+   "Score": 1.556
+ },
+ {
+   "#": 156,
+   "Title": "binary-tree-upside-down",
+   "Score": 1.556
+ },
+ {
+   "#": 431,
+   "Title": "encode-nary-tree-to-binary-tree",
+   "Score": 1.562
+ },
+ {
+   "#": 739,
+   "Title": "daily-temperatures",
+   "Score": 1.564
+ },
+ {
+   "#": 1045,
+   "Title": "customers-who-bought-all-products",
+   "Score": 1.564
+ },
+ {
+   "#": 695,
+   "Title": "max-area-of-island",
+   "Score": 1.57
+ },
+ {
+   "#": 582,
+   "Title": "kill-process",
+   "Score": 1.578
+ },
+ {
+   "#": 959,
+   "Title": "regions-cut-by-slashes",
+   "Score": 1.579
+ },
+ {
+   "#": 215,
+   "Title": "kth-largest-element-in-an-array",
+   "Score": 1.581
+ },
+ {
+   "#": 1126,
+   "Title": "active-businesses",
+   "Score": 1.583
+ },
+ {
+   "#": 841,
+   "Title": "keys-and-rooms",
+   "Score": 1.584
+ },
+ {
+   "#": 951,
+   "Title": "flip-equivalent-binary-trees",
+   "Score": 1.584
+ },
+ {
+   "#": 413,
+   "Title": "arithmetic-slices",
+   "Score": 1.585
+ },
+ {
+   "#": 859,
+   "Title": "buddy-strings",
+   "Score": 1.585
+ },
+ {
+   "#": 245,
+   "Title": "shortest-word-distance-iii",
+   "Score": 1.586
+ },
+ {
+   "#": 877,
+   "Title": "stone-game",
+   "Score": 1.588
+ },
+ {
+   "#": 1204,
+   "Title": "last-person-to-fit-in-the-elevator",
+   "Score": 1.591
+ },
+ {
+   "#": 241,
+   "Title": "different-ways-to-add-parentheses",
+   "Score": 1.597
+ },
+ {
+   "#": 96,
+   "Title": "unique-binary-search-trees",
+   "Score": 1.603
+ },
+ {
+   "#": 1508,
+   "Title": "range-sum-of-sorted-subarray-sums",
+   "Score": 1.603
+ },
+ {
+   "#": 531,
+   "Title": "lonely-pixel-i",
+   "Score": 1.606
+ },
+ {
+   "#": 323,
+   "Title": "number-of-connected-components-in-an-undirected-graph",
+   "Score": 1.607
+ },
+ {
+   "#": 529,
+   "Title": "minesweeper",
+   "Score": 1.608
+ },
+ {
+   "#": 647,
+   "Title": "palindromic-substrings",
+   "Score": 1.609
+ },
+ {
+   "#": 287,
+   "Title": "find-the-duplicate-number",
+   "Score": 1.61
+ },
+ {
+   "#": 249,
+   "Title": "group-shifted-strings",
+   "Score": 1.611
+ },
+ {
+   "#": 199,
+   "Title": "binary-tree-right-side-view",
+   "Score": 1.613
+ },
+ {
+   "#": 328,
+   "Title": "odd-even-linked-list",
+   "Score": 1.619
+ },
+ {
+   "#": 1193,
+   "Title": "monthly-transactions-i",
+   "Score": 1.622
+ },
+ {
+   "#": 1479,
+   "Title": "sales-by-day-of-the-week",
+   "Score": 1.622
+ },
+ {
+   "#": 1222,
+   "Title": "queens-that-can-attack-the-king",
+   "Score": 1.623
+ },
+ {
+   "#": 1026,
+   "Title": "maximum-difference-between-node-and-ancestor",
+   "Score": 1.624
+ },
+ {
+   "#": 510,
+   "Title": "inorder-successor-in-bst-ii",
+   "Score": 1.625
+ },
+ {
+   "#": 609,
+   "Title": "find-duplicate-file-in-system",
+   "Score": 1.627
+ },
+ {
+   "#": 11,
+   "Title": "container-with-most-water",
+   "Score": 1.628
+ },
+ {
+   "#": 1110,
+   "Title": "delete-nodes-and-return-forest",
+   "Score": 1.628
+ },
+ {
+   "#": 1195,
+   "Title": "fizz-buzz-multithreaded",
+   "Score": 1.63
+ },
+ {
+   "#": 912,
+   "Title": "sort-an-array",
+   "Score": 1.631
+ },
+ {
+   "#": 547,
+   "Title": "friend-circles",
+   "Score": 1.633
+ },
+ {
+   "#": 508,
+   "Title": "most-frequent-subtree-sum",
+   "Score": 1.634
+ },
+ {
+   "#": 612,
+   "Title": "shortest-distance-in-a-plane",
+   "Score": 1.635
+ },
+ {
+   "#": 1123,
+   "Title": "lowest-common-ancestor-of-deepest-leaves",
+   "Score": 1.635
+ },
+ {
+   "#": 137,
+   "Title": "single-number-ii",
+   "Score": 1.639
+ },
+ {
+   "#": 286,
+   "Title": "walls-and-gates",
+   "Score": 1.639
+ },
+ {
+   "#": 526,
+   "Title": "beautiful-arrangement",
+   "Score": 1.643
+ },
+ {
+   "#": 540,
+   "Title": "single-element-in-a-sorted-array",
+   "Score": 1.643
+ },
+ {
+   "#": 1387,
+   "Title": "sort-integers-by-the-power-value",
+   "Score": 1.643
+ },
+ {
+   "#": 289,
+   "Title": "game-of-life",
+   "Score": 1.647
+ },
+ {
+   "#": 1101,
+   "Title": "the-earliest-moment-when-everyone-become-friends",
+   "Score": 1.647
+ },
+ {
+   "#": 1043,
+   "Title": "partition-array-for-maximum-sum",
+   "Score": 1.649
+ },
+ {
+   "#": 24,
+   "Title": "swap-nodes-in-pairs",
+   "Score": 1.65
+ },
+ {
+   "#": 398,
+   "Title": "random-pick-index",
+   "Score": 1.65
+ },
+ {
+   "#": 489,
+   "Title": "robot-room-cleaner",
+   "Score": 1.652
+ },
+ {
+   "#": 1214,
+   "Title": "two-sum-bsts",
+   "Score": 1.652
+ },
+ {
+   "#": 1415,
+   "Title": "the-kth-lexicographical-string-of-all-happy-strings-of-length-n",
+   "Score": 1.654
+ },
+ {
+   "#": 1061,
+   "Title": "lexicographically-smallest-equivalent-string",
+   "Score": 1.657
+ },
+ {
+   "#": 1448,
+   "Title": "count-good-nodes-in-binary-tree",
+   "Score": 1.663
+ },
+ {
+   "#": 973,
+   "Title": "k-closest-points-to-origin",
+   "Score": 1.664
+ },
+ {
+   "#": 1130,
+   "Title": "minimum-cost-tree-from-leaf-values",
+   "Score": 1.664
+ },
+ {
+   "#": 439,
+   "Title": "ternary-expression-parser",
+   "Score": 1.666
+ },
+ {
+   "#": 635,
+   "Title": "design-log-storage-system",
+   "Score": 1.669
+ },
+ {
+   "#": 1286,
+   "Title": "iterator-for-combination",
+   "Score": 1.67
+ },
+ {
+   "#": 1310,
+   "Title": "xor-queries-of-a-subarray",
+   "Score": 1.672
+ },
+ {
+   "#": 348,
+   "Title": "design-tictactoe",
+   "Score": 1.675
+ },
+ {
+   "#": 503,
+   "Title": "next-greater-element-ii",
+   "Score": 1.681
+ },
+ {
+   "#": 665,
+   "Title": "nondecreasing-array",
+   "Score": 1.681
+ },
+ {
+   "#": 1440,
+   "Title": "evaluate-boolean-expression",
+   "Score": 1.682
+ },
+ {
+   "#": 1264,
+   "Title": "page-recommendations",
+   "Score": 1.686
+ },
+ {
+   "#": 244,
+   "Title": "shortest-word-distance-ii",
+   "Score": 1.687
+ },
+ {
+   "#": 931,
+   "Title": "minimum-falling-path-sum",
+   "Score": 1.687
+ },
+ {
+   "#": 1355,
+   "Title": "activity-participants",
+   "Score": 1.687
+ },
+ {
+   "#": 430,
+   "Title": "flatten-a-multilevel-doubly-linked-list",
+   "Score": 1.688
+ },
+ {
+   "#": 378,
+   "Title": "kth-smallest-element-in-a-sorted-matrix",
+   "Score": 1.689
+ },
+ {
+   "#": 553,
+   "Title": "optimal-division",
+   "Score": 1.692
+ },
+ {
+   "#": 1164,
+   "Title": "product-price-at-a-given-date",
+   "Score": 1.697
+ },
+ {
+   "#": 250,
+   "Title": "count-univalue-subtrees",
+   "Score": 1.7
+ },
+ {
+   "#": 865,
+   "Title": "smallest-subtree-with-all-the-deepest-nodes",
+   "Score": 1.704
+ },
+ {
+   "#": 998,
+   "Title": "maximum-binary-tree-ii",
+   "Score": 1.706
+ },
+ {
+   "#": 36,
+   "Title": "valid-sudoku",
+   "Score": 1.709
+ },
+ {
+   "#": 712,
+   "Title": "minimum-ascii-delete-sum-for-two-strings",
+   "Score": 1.709
+ },
+ {
+   "#": 1442,
+   "Title": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+   "Score": 1.709
+ },
+ {
+   "#": 445,
+   "Title": "add-two-numbers-ii",
+   "Score": 1.715
+ },
+ {
+   "#": 89,
+   "Title": "gray-code",
+   "Score": 1.718
+ },
+ {
+   "#": 341,
+   "Title": "flatten-nested-list-iterator",
+   "Score": 1.718
+ },
+ {
+   "#": 856,
+   "Title": "score-of-parentheses",
+   "Score": 1.719
+ },
+ {
+   "#": 946,
+   "Title": "validate-stack-sequences",
+   "Score": 1.72
+ },
+ {
+   "#": 1256,
+   "Title": "encode-number",
+   "Score": 1.725
+ },
+ {
+   "#": 421,
+   "Title": "maximum-xor-of-two-numbers-in-an-array",
+   "Score": 1.733
+ },
+ {
+   "#": 40,
+   "Title": "combination-sum-ii",
+   "Score": 1.734
+ },
+ {
+   "#": 573,
+   "Title": "squirrel-simulation",
+   "Score": 1.734
+ },
+ {
+   "#": 114,
+   "Title": "flatten-binary-tree-to-linked-list",
+   "Score": 1.736
+ },
+ {
+   "#": 1321,
+   "Title": "restaurant-growth",
+   "Score": 1.736
+ },
+ {
+   "#": 320,
+   "Title": "generalized-abbreviation",
+   "Score": 1.737
+ },
+ {
+   "#": 565,
+   "Title": "array-nesting",
+   "Score": 1.737
+ },
+ {
+   "#": 1492,
+   "Title": "the-kth-factor-of-n",
+   "Score": 1.737
+ },
+ {
+   "#": 684,
+   "Title": "redundant-connection",
+   "Score": 1.738
+ },
+ {
+   "#": 384,
+   "Title": "shuffle-an-array",
+   "Score": 1.742
+ },
+ {
+   "#": 462,
+   "Title": "minimum-moves-to-equal-array-elements-ii",
+   "Score": 1.743
+ },
+ {
+   "#": 1219,
+   "Title": "path-with-maximum-gold",
+   "Score": 1.743
+ },
+ {
+   "#": 129,
+   "Title": "sum-root-to-leaf-numbers",
+   "Score": 1.744
+ },
+ {
+   "#": 159,
+   "Title": "longest-substring-with-at-most-two-distinct-characters",
+   "Score": 1.745
+ },
+ {
+   "#": 648,
+   "Title": "replace-words",
+   "Score": 1.747
+ },
+ {
+   "#": 105,
+   "Title": "construct-binary-tree-from-preorder-and-inorder-traversal",
+   "Score": 1.748
+ },
+ {
+   "#": 901,
+   "Title": "online-stock-span",
+   "Score": 1.748
+ },
+ {
+   "#": 1087,
+   "Title": "brace-expansion",
+   "Score": 1.749
+ },
+ {
+   "#": 318,
+   "Title": "maximum-product-of-word-lengths",
+   "Score": 1.759
+ },
+ {
+   "#": 454,
+   "Title": "4sum-ii",
+   "Score": 1.759
+ },
+ {
+   "#": 382,
+   "Title": "linked-list-random-node",
+   "Score": 1.76
+ },
+ {
+   "#": 1238,
+   "Title": "circular-permutation-in-binary-representation",
+   "Score": 1.762
+ },
+ {
+   "#": 1140,
+   "Title": "stone-game-ii",
+   "Score": 1.764
+ },
+ {
+   "#": 1236,
+   "Title": "web-crawler",
+   "Score": 1.764
+ },
+ {
+   "#": 1338,
+   "Title": "reduce-array-size-to-the-half",
+   "Score": 1.764
+ },
+ {
+   "#": 17,
+   "Title": "letter-combinations-of-a-phone-number",
+   "Score": 1.765
+ },
+ {
+   "#": 495,
+   "Title": "teemo-attacking",
+   "Score": 1.766
+ },
+ {
+   "#": 835,
+   "Title": "image-overlap",
+   "Score": 1.772
+ },
+ {
+   "#": 75,
+   "Title": "sort-colors",
+   "Score": 1.773
+ },
+ {
+   "#": 1258,
+   "Title": "synonymous-sentences",
+   "Score": 1.775
+ },
+ {
+   "#": 585,
+   "Title": "investments-in-2016",
+   "Score": 1.779
+ },
+ {
+   "#": 789,
+   "Title": "escape-the-ghosts",
+   "Score": 1.779
+ },
+ {
+   "#": 16,
+   "Title": "3sum-closest",
+   "Score": 1.781
+ },
+ {
+   "#": 983,
+   "Title": "minimum-cost-for-tickets",
+   "Score": 1.781
+ },
+ {
+   "#": 1120,
+   "Title": "maximum-average-subtree",
+   "Score": 1.781
+ },
+ {
+   "#": 208,
+   "Title": "implement-trie-prefix-tree",
+   "Score": 1.782
+ },
+ {
+   "#": 109,
+   "Title": "convert-sorted-list-to-binary-search-tree",
+   "Score": 1.783
+ },
+ {
+   "#": 386,
+   "Title": "lexicographical-numbers",
+   "Score": 1.785
+ },
+ {
+   "#": 1457,
+   "Title": "pseudopalindromic-paths-in-a-binary-tree",
+   "Score": 1.786
+ },
+ {
+   "#": 103,
+   "Title": "binary-tree-zigzag-level-order-traversal",
+   "Score": 1.787
+ },
+ {
+   "#": 294,
+   "Title": "flip-game-ii",
+   "Score": 1.787
+ },
+ {
+   "#": 1357,
+   "Title": "apply-discount-every-n-orders",
+   "Score": 1.787
+ },
+ {
+   "#": 337,
+   "Title": "house-robber-iii",
+   "Score": 1.788
+ },
+ {
+   "#": 694,
+   "Title": "number-of-distinct-islands",
+   "Score": 1.789
+ },
+ {
+   "#": 90,
+   "Title": "subsets-ii",
+   "Score": 1.79
+ },
+ {
+   "#": 1167,
+   "Title": "minimum-cost-to-connect-sticks",
+   "Score": 1.79
+ },
+ {
+   "#": 399,
+   "Title": "evaluate-division",
+   "Score": 1.792
+ },
+ {
+   "#": 47,
+   "Title": "permutations-ii",
+   "Score": 1.793
+ },
+ {
+   "#": 655,
+   "Title": "print-binary-tree",
+   "Score": 1.797
+ },
+ {
+   "#": 449,
+   "Title": "serialize-and-deserialize-bst",
+   "Score": 1.799
+ },
+ {
+   "#": 516,
+   "Title": "longest-palindromic-subsequence",
+   "Score": 1.799
+ },
+ {
+   "#": 817,
+   "Title": "linked-list-components",
+   "Score": 1.799
+ },
+ {
+   "#": 131,
+   "Title": "palindrome-partitioning",
+   "Score": 1.8
+ },
+ {
+   "#": 343,
+   "Title": "integer-break",
+   "Score": 1.801
+ },
+ {
+   "#": 980,
+   "Title": "unique-paths-iii",
+   "Score": 1.801
+ },
+ {
+   "#": 1072,
+   "Title": "flip-columns-for-maximum-number-of-equal-rows",
+   "Score": 1.804
+ },
+ {
+   "#": 1273,
+   "Title": "delete-tree-nodes",
+   "Score": 1.812
+ },
+ {
+   "#": 666,
+   "Title": "path-sum-iv",
+   "Score": 1.815
+ },
+ {
+   "#": 1268,
+   "Title": "search-suggestions-system",
+   "Score": 1.816
+ },
+ {
+   "#": 113,
+   "Title": "path-sum-ii",
+   "Score": 1.818
+ },
+ {
+   "#": 676,
+   "Title": "implement-magic-dictionary",
+   "Score": 1.823
+ },
+ {
+   "#": 1433,
+   "Title": "check-if-a-string-can-break-another-string",
+   "Score": 1.823
+ },
+ {
+   "#": 932,
+   "Title": "beautiful-array",
+   "Score": 1.825
+ },
+ {
+   "#": 1343,
+   "Title": "number-of-subarrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+   "Score": 1.826
+ },
+ {
+   "#": 1418,
+   "Title": "display-table-of-food-orders-in-a-restaurant",
+   "Score": 1.826
+ },
+ {
+   "#": 667,
+   "Title": "beautiful-arrangement-ii",
+   "Score": 1.829
+ },
+ {
+   "#": 776,
+   "Title": "split-bst",
+   "Score": 1.829
+ },
+ {
+   "#": 1158,
+   "Title": "market-analysis-i",
+   "Score": 1.829
+ },
+ {
+   "#": 602,
+   "Title": "friend-requests-ii-who-has-the-most-friends",
+   "Score": 1.833
+ },
+ {
+   "#": 490,
+   "Title": "the-maze",
+   "Score": 1.835
+ },
+ {
+   "#": 1016,
+   "Title": "binary-string-with-substrings-representing-1-to-n",
+   "Score": 1.836
+ },
+ {
+   "#": 1249,
+   "Title": "minimum-remove-to-make-valid-parentheses",
+   "Score": 1.836
+ },
+ {
+   "#": 1004,
+   "Title": "max-consecutive-ones-iii",
+   "Score": 1.837
+ },
+ {
+   "#": 714,
+   "Title": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+   "Score": 1.841
+ },
+ {
+   "#": 394,
+   "Title": "decode-string",
+   "Score": 1.842
+ },
+ {
+   "#": 247,
+   "Title": "strobogrammatic-number-ii",
+   "Score": 1.843
+ },
+ {
+   "#": 1017,
+   "Title": "convert-to-base-2",
+   "Score": 1.843
+ },
+ {
+   "#": 1190,
+   "Title": "reverse-substrings-between-each-pair-of-parentheses",
+   "Score": 1.844
+ },
+ {
+   "#": 919,
+   "Title": "complete-binary-tree-inserter",
+   "Score": 1.845
+ },
+ {
+   "#": 106,
+   "Title": "construct-binary-tree-from-inorder-and-postorder-traversal",
+   "Score": 1.847
+ },
+ {
+   "#": 259,
+   "Title": "3sum-smaller",
+   "Score": 1.849
+ },
+ {
+   "#": 200,
+   "Title": "number-of-islands",
+   "Score": 1.85
+ },
+ {
+   "#": 1396,
+   "Title": "design-underground-system",
+   "Score": 1.851
+ },
+ {
+   "#": 539,
+   "Title": "minimum-time-difference",
+   "Score": 1.856
+ },
+ {
+   "#": 360,
+   "Title": "sort-transformed-array",
+   "Score": 1.858
+ },
+ {
+   "#": 756,
+   "Title": "pyramid-transition-matrix",
+   "Score": 1.858
+ },
+ {
+   "#": 477,
+   "Title": "total-hamming-distance",
+   "Score": 1.859
+ },
+ {
+   "#": 677,
+   "Title": "map-sum-pairs",
+   "Score": 1.86
+ },
+ {
+   "#": 769,
+   "Title": "max-chunks-to-make-sorted",
+   "Score": 1.861
+ },
+ {
+   "#": 1318,
+   "Title": "minimum-flips-to-make-a-or-b-equal-to-c",
+   "Score": 1.863
+ },
+ {
+   "#": 1011,
+   "Title": "capacity-to-ship-packages-within-d-days",
+   "Score": 1.866
+ },
+ {
+   "#": 641,
+   "Title": "design-circular-deque",
+   "Score": 1.869
+ },
+ {
+   "#": 222,
+   "Title": "count-complete-tree-nodes",
+   "Score": 1.87
+ },
+ {
+   "#": 351,
+   "Title": "android-unlock-patterns",
+   "Score": 1.87
+ },
+ {
+   "#": 357,
+   "Title": "count-numbers-with-unique-digits",
+   "Score": 1.87
+ },
+ {
+   "#": 116,
+   "Title": "populating-next-right-pointers-in-each-node",
+   "Score": 1.872
+ },
+ {
+   "#": 279,
+   "Title": "perfect-squares",
+   "Score": 1.872
+ },
+ {
+   "#": 254,
+   "Title": "factor-combinations",
+   "Score": 1.876
+ },
+ {
+   "#": 651,
+   "Title": "4-keys-keyboard",
+   "Score": 1.877
+ },
+ {
+   "#": 781,
+   "Title": "rabbits-in-forest",
+   "Score": 1.877
+ },
+ {
+   "#": 452,
+   "Title": "minimum-number-of-arrows-to-burst-balloons",
+   "Score": 1.879
+ },
+ {
+   "#": 1090,
+   "Title": "largest-values-from-labels",
+   "Score": 1.881
+ },
+ {
+   "#": 178,
+   "Title": "rank-scores",
+   "Score": 1.882
+ },
+ {
+   "#": 1031,
+   "Title": "maximum-sum-of-two-nonoverlapping-subarrays",
+   "Score": 1.882
+ },
+ {
+   "#": 153,
+   "Title": "find-minimum-in-rotated-sorted-array",
+   "Score": 1.883
+ },
+ {
+   "#": 80,
+   "Title": "remove-duplicates-from-sorted-array-ii",
+   "Score": 1.884
+ },
+ {
+   "#": 298,
+   "Title": "binary-tree-longest-consecutive-sequence",
+   "Score": 1.884
+ },
+ {
+   "#": 1227,
+   "Title": "airplane-seat-assignment-probability",
+   "Score": 1.885
+ },
+ {
+   "#": 1020,
+   "Title": "number-of-enclaves",
+   "Score": 1.887
+ },
+ {
+   "#": 1437,
+   "Title": "check-if-all-1s-are-at-least-length-k-places-away",
+   "Score": 1.888
+ },
+ {
+   "#": 636,
+   "Title": "exclusive-time-of-functions",
+   "Score": 1.889
+ },
+ {
+   "#": 1019,
+   "Title": "next-greater-node-in-linked-list",
+   "Score": 1.89
+ },
+ {
+   "#": 1151,
+   "Title": "minimum-swaps-to-group-all-1s-together",
+   "Score": 1.891
+ },
+ {
+   "#": 52,
+   "Title": "nqueens-ii",
+   "Score": 1.892
+ },
+ {
+   "#": 863,
+   "Title": "all-nodes-distance-k-in-binary-tree",
+   "Score": 1.894
+ },
+ {
+   "#": 518,
+   "Title": "coin-change-2",
+   "Score": 1.895
+ },
+ {
+   "#": 1057,
+   "Title": "campus-bikes",
+   "Score": 1.895
+ },
+ {
+   "#": 1501,
+   "Title": "countries-you-can-safely-invest-in",
+   "Score": 1.895
+ },
+ {
+   "#": 1472,
+   "Title": "design-browser-history",
+   "Score": 1.898
+ },
+ {
+   "#": 120,
+   "Title": "triangle",
+   "Score": 1.9
+ },
+ {
+   "#": 646,
+   "Title": "maximum-length-of-pair-chain",
+   "Score": 1.901
+ },
+ {
+   "#": 1105,
+   "Title": "filling-bookcase-shelves",
+   "Score": 1.902
+ },
+ {
+   "#": 638,
+   "Title": "shopping-offers",
+   "Score": 1.903
+ },
+ {
+   "#": 1115,
+   "Title": "print-foobar-alternately",
+   "Score": 1.903
+ },
+ {
+   "#": 1466,
+   "Title": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+   "Score": 1.905
+ },
+ {
+   "#": 73,
+   "Title": "set-matrix-zeroes",
+   "Score": 1.907
+ },
+ {
+   "#": 251,
+   "Title": "flatten-2d-vector",
+   "Score": 1.907
+ },
+ {
+   "#": 325,
+   "Title": "maximum-size-subarray-sum-equals-k",
+   "Score": 1.907
+ },
+ {
+   "#": 1375,
+   "Title": "bulb-switcher-iii",
+   "Score": 1.907
+ },
+ {
+   "#": 253,
+   "Title": "meeting-rooms-ii",
+   "Score": 1.908
+ },
+ {
+   "#": 1023,
+   "Title": "camelcase-matching",
+   "Score": 1.908
+ },
+ {
+   "#": 1344,
+   "Title": "angle-between-hands-of-a-clock",
+   "Score": 1.908
+ },
+ {
+   "#": 255,
+   "Title": "verify-preorder-sequence-in-binary-search-tree",
+   "Score": 1.909
+ },
+ {
+   "#": 309,
+   "Title": "best-time-to-buy-and-sell-stock-with-cooldown",
+   "Score": 1.909
+ },
+ {
+   "#": 236,
+   "Title": "lowest-common-ancestor-of-a-binary-tree",
+   "Score": 1.91
+ },
+ {
+   "#": 380,
+   "Title": "insert-delete-getrandom-o1",
+   "Score": 1.91
+ },
+ {
+   "#": 554,
+   "Title": "brick-wall",
+   "Score": 1.912
+ },
+ {
+   "#": 1254,
+   "Title": "number-of-closed-islands",
+   "Score": 1.914
+ },
+ {
+   "#": 1143,
+   "Title": "longest-common-subsequence",
+   "Score": 1.917
+ },
+ {
+   "#": 846,
+   "Title": "hand-of-straights",
+   "Score": 1.918
+ },
+ {
+   "#": 1247,
+   "Title": "minimum-swaps-to-make-strings-equal",
+   "Score": 1.918
+ },
+ {
+   "#": 1055,
+   "Title": "shortest-way-to-form-string",
+   "Score": 1.92
+ },
+ {
+   "#": 692,
+   "Title": "top-k-frequent-words",
+   "Score": 1.923
+ },
+ {
+   "#": 1245,
+   "Title": "tree-diameter",
+   "Score": 1.923
+ },
+ {
+   "#": 947,
+   "Title": "most-stones-removed-with-same-row-or-column",
+   "Score": 1.924
+ },
+ {
+   "#": 1062,
+   "Title": "longest-repeating-substring",
+   "Score": 1.924
+ },
+ {
+   "#": 487,
+   "Title": "max-consecutive-ones-ii",
+   "Score": 1.926
+ },
+ {
+   "#": 1306,
+   "Title": "jump-game-iii",
+   "Score": 1.926
+ },
+ {
+   "#": 725,
+   "Title": "split-linked-list-in-parts",
+   "Score": 1.929
+ },
+ {
+   "#": 1244,
+   "Title": "design-a-leaderboard",
+   "Score": 1.929
+ },
+ {
+   "#": 284,
+   "Title": "peeking-iterator",
+   "Score": 1.933
+ },
+ {
+   "#": 379,
+   "Title": "design-phone-directory",
+   "Score": 1.933
+ },
+ {
+   "#": 858,
+   "Title": "mirror-reflection",
+   "Score": 1.934
+ },
+ {
+   "#": 1174,
+   "Title": "immediate-food-delivery-ii",
+   "Score": 1.935
+ },
+ {
+   "#": 1233,
+   "Title": "remove-subfolders-from-the-filesystem",
+   "Score": 1.937
+ },
+ {
+   "#": 672,
+   "Title": "bulb-switcher-ii",
+   "Score": 1.939
+ },
+ {
+   "#": 729,
+   "Title": "my-calendar-i",
+   "Score": 1.941
+ },
+ {
+   "#": 162,
+   "Title": "find-peak-element",
+   "Score": 1.943
+ },
+ {
+   "#": 1035,
+   "Title": "uncrossed-lines",
+   "Score": 1.944
+ },
+ {
+   "#": 361,
+   "Title": "bomb-enemy",
+   "Score": 1.947
+ },
+ {
+   "#": 486,
+   "Title": "predict-the-winner",
+   "Score": 1.948
+ },
+ {
+   "#": 498,
+   "Title": "diagonal-traverse",
+   "Score": 1.948
+ },
+ {
+   "#": 1094,
+   "Title": "car-pooling",
+   "Score": 1.949
+ },
+ {
+   "#": 319,
+   "Title": "bulb-switcher",
+   "Score": 1.95
+ },
+ {
+   "#": 524,
+   "Title": "longest-word-in-dictionary-through-deleting",
+   "Score": 1.95
+ },
+ {
+   "#": 423,
+   "Title": "reconstruct-original-digits-from-english",
+   "Score": 1.951
+ },
+ {
+   "#": 752,
+   "Title": "open-the-lock",
+   "Score": 1.952
+ },
+ {
+   "#": 1135,
+   "Title": "connecting-cities-with-minimum-cost",
+   "Score": 1.952
+ },
+ {
+   "#": 424,
+   "Title": "longest-repeating-character-replacement",
+   "Score": 1.955
+ },
+ {
+   "#": 623,
+   "Title": "add-one-row-to-tree",
+   "Score": 1.955
+ },
+ {
+   "#": 481,
+   "Title": "magical-string",
+   "Score": 1.956
+ },
+ {
+   "#": 314,
+   "Title": "binary-tree-vertical-order-traversal",
+   "Score": 1.957
+ },
+ {
+   "#": 186,
+   "Title": "reverse-words-in-a-string-ii",
+   "Score": 1.958
+ },
+ {
+   "#": 652,
+   "Title": "find-duplicate-subtrees",
+   "Score": 1.959
+ },
+ {
+   "#": 869,
+   "Title": "reordered-power-of-2",
+   "Score": 1.959
+ },
+ {
+   "#": 1063,
+   "Title": "number-of-valid-subarrays",
+   "Score": 1.959
+ },
+ {
+   "#": 313,
+   "Title": "super-ugly-number",
+   "Score": 1.96
+ },
+ {
+   "#": 1414,
+   "Title": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+   "Score": 1.962
+ },
+ {
+   "#": 536,
+   "Title": "construct-binary-tree-from-string",
+   "Score": 1.963
+ },
+ {
+   "#": 1003,
+   "Title": "check-if-word-is-valid-after-substitutions",
+   "Score": 1.964
+ },
+ {
+   "#": 505,
+   "Title": "the-maze-ii",
+   "Score": 1.967
+ },
+ {
+   "#": 592,
+   "Title": "fraction-addition-and-subtraction",
+   "Score": 1.967
+ },
+ {
+   "#": 900,
+   "Title": "rle-iterator",
+   "Score": 1.967
+ },
+ {
+   "#": 1257,
+   "Title": "smallest-common-region",
+   "Score": 1.968
+ },
+ {
+   "#": 533,
+   "Title": "lonely-pixel-ii",
+   "Score": 1.971
+ },
+ {
+   "#": 86,
+   "Title": "partition-list",
+   "Score": 1.972
+ },
+ {
+   "#": 580,
+   "Title": "count-student-number-in-departments",
+   "Score": 1.974
+ },
+ {
+   "#": 207,
+   "Title": "course-schedule",
+   "Score": 1.975
+ },
+ {
+   "#": 1028,
+   "Title": "recover-a-tree-from-preorder-traversal",
+   "Score": 1.976
+ },
+ {
+   "#": 1459,
+   "Title": "rectangles-area",
+   "Score": 1.977
+ },
+ {
+   "#": 759,
+   "Title": "employee-free-time",
+   "Score": 1.978
+ },
+ {
+   "#": 1052,
+   "Title": "grumpy-bookstore-owner",
+   "Score": 1.978
+ },
+ {
+   "#": 148,
+   "Title": "sort-list",
+   "Score": 1.979
+ },
+ {
+   "#": 583,
+   "Title": "delete-operation-for-two-strings",
+   "Score": 1.979
+ },
+ {
+   "#": 1272,
+   "Title": "remove-interval",
+   "Score": 1.979
+ },
+ {
+   "#": 377,
+   "Title": "combination-sum-iv",
+   "Score": 1.981
+ },
+ {
+   "#": 240,
+   "Title": "search-a-2d-matrix-ii",
+   "Score": 1.984
+ },
+ {
+   "#": 621,
+   "Title": "task-scheduler",
+   "Score": 1.984
+ },
+ {
+   "#": 1166,
+   "Title": "design-file-system",
+   "Score": 1.984
+ },
+ {
+   "#": 1288,
+   "Title": "remove-covered-intervals",
+   "Score": 1.987
+ },
+ {
+   "#": 650,
+   "Title": "2-keys-keyboard",
+   "Score": 1.988
+ },
+ {
+   "#": 1400,
+   "Title": "construct-k-palindrome-strings",
+   "Score": 1.988
+ },
+ {
+   "#": 1447,
+   "Title": "simplified-fractions",
+   "Score": 1.988
+ },
+ {
+   "#": 611,
+   "Title": "valid-triangle-number",
+   "Score": 1.989
+ },
+ {
+   "#": 470,
+   "Title": "implement-rand10-using-rand7",
+   "Score": 1.99
+ },
+ {
+   "#": 1116,
+   "Title": "print-zero-even-odd",
+   "Score": 1.992
+ },
+ {
+   "#": 494,
+   "Title": "target-sum",
+   "Score": 1.995
+ },
+ {
+   "#": 1504,
+   "Title": "count-submatrices-with-all-ones",
+   "Score": 1.995
+ },
+ {
+   "#": 1267,
+   "Title": "count-servers-that-communicate",
+   "Score": 1.996
+ },
+ {
+   "#": 1048,
+   "Title": "longest-string-chain",
+   "Score": 1.999
+ },
+ {
+   "#": 875,
+   "Title": "koko-eating-bananas",
+   "Score": 2.004
+ },
+ {
+   "#": 1060,
+   "Title": "missing-element-in-sorted-array",
+   "Score": 2.005
+ },
+ {
+   "#": 95,
+   "Title": "unique-binary-search-trees-ii",
+   "Score": 2.006
+ },
+ {
+   "#": 851,
+   "Title": "loud-and-rich",
+   "Score": 2.006
+ },
+ {
+   "#": 549,
+   "Title": "binary-tree-longest-consecutive-sequence-ii",
+   "Score": 2.008
+ },
+ {
+   "#": 1209,
+   "Title": "remove-all-adjacent-duplicates-in-string-ii",
+   "Score": 2.008
+ },
+ {
+   "#": 436,
+   "Title": "find-right-interval",
+   "Score": 2.01
+ },
+ {
+   "#": 390,
+   "Title": "elimination-game",
+   "Score": 2.011
+ },
+ {
+   "#": 718,
+   "Title": "maximum-length-of-repeated-subarray",
+   "Score": 2.011
+ },
+ {
+   "#": 147,
+   "Title": "insertion-sort-list",
+   "Score": 2.012
+ },
+ {
+   "#": 491,
+   "Title": "increasing-subsequences",
+   "Score": 2.013
+ },
+ {
+   "#": 1066,
+   "Title": "campus-bikes-ii",
+   "Score": 2.014
+ },
+ {
+   "#": 981,
+   "Title": "time-based-keyvalue-store",
+   "Score": 2.016
+ },
+ {
+   "#": 820,
+   "Title": "short-encoding-of-words",
+   "Score": 2.017
+ },
+ {
+   "#": 1324,
+   "Title": "print-words-vertically",
+   "Score": 2.017
+ },
+ {
+   "#": 1006,
+   "Title": "clumsy-factorial",
+   "Score": 2.018
+ },
+ {
+   "#": 688,
+   "Title": "knight-probability-in-chessboard",
+   "Score": 2.019
+ },
+ {
+   "#": 926,
+   "Title": "flip-string-to-monotone-increasing",
+   "Score": 2.019
+ },
+ {
+   "#": 574,
+   "Title": "winning-candidate",
+   "Score": 2.02
+ },
+ {
+   "#": 1027,
+   "Title": "longest-arithmetic-sequence",
+   "Score": 2.022
+ },
+ {
+   "#": 56,
+   "Title": "merge-intervals",
+   "Score": 2.024
+ },
+ {
+   "#": 731,
+   "Title": "my-calendar-ii",
+   "Score": 2.027
+ },
+ {
+   "#": 261,
+   "Title": "graph-valid-tree",
+   "Score": 2.03
+ },
+ {
+   "#": 939,
+   "Title": "minimum-area-rectangle",
+   "Score": 2.032
+ },
+ {
+   "#": 300,
+   "Title": "longest-increasing-subsequence",
+   "Score": 2.033
+ },
+ {
+   "#": 833,
+   "Title": "find-and-replace-in-string",
+   "Score": 2.033
+ },
+ {
+   "#": 548,
+   "Title": "split-array-with-equal-sum",
+   "Score": 2.034
+ },
+ {
+   "#": 264,
+   "Title": "ugly-number-ii",
+   "Score": 2.035
+ },
+ {
+   "#": 1248,
+   "Title": "count-number-of-nice-subarrays",
+   "Score": 2.04
+ },
+ {
+   "#": 958,
+   "Title": "check-completeness-of-a-binary-tree",
+   "Score": 2.041
+ },
+ {
+   "#": 721,
+   "Title": "accounts-merge",
+   "Score": 2.042
+ },
+ {
+   "#": 813,
+   "Title": "largest-sum-of-averages",
+   "Score": 2.043
+ },
+ {
+   "#": 139,
+   "Title": "word-break",
+   "Score": 2.044
+ },
+ {
+   "#": 740,
+   "Title": "delete-and-earn",
+   "Score": 2.044
+ },
+ {
+   "#": 1014,
+   "Title": "best-sightseeing-pair",
+   "Score": 2.048
+ },
+ {
+   "#": 1212,
+   "Title": "team-scores-in-football-tournament",
+   "Score": 2.048
+ },
+ {
+   "#": 277,
+   "Title": "find-the-celebrity",
+   "Score": 2.051
+ },
+ {
+   "#": 562,
+   "Title": "longest-line-of-consecutive-one-in-matrix",
+   "Score": 2.051
+ },
+ {
+   "#": 1040,
+   "Title": "moving-stones-until-consecutive-ii",
+   "Score": 2.051
+ },
+ {
+   "#": 296,
+   "Title": "best-meeting-point",
+   "Score": 2.053
+ },
+ {
+   "#": 1358,
+   "Title": "number-of-substrings-containing-all-three-characters",
+   "Score": 2.053
+ },
+ {
+   "#": 60,
+   "Title": "permutation-sequence",
+   "Score": 2.055
+ },
+ {
+   "#": 210,
+   "Title": "course-schedule-ii",
+   "Score": 2.055
+ },
+ {
+   "#": 1226,
+   "Title": "the-dining-philosophers",
+   "Score": 2.055
+ },
+ {
+   "#": 416,
+   "Title": "partition-equal-subset-sum",
+   "Score": 2.056
+ },
+ {
+   "#": 92,
+   "Title": "reverse-linked-list-ii",
+   "Score": 2.061
+ },
+ {
+   "#": 428,
+   "Title": "serialize-and-deserialize-nary-tree",
+   "Score": 2.063
+ },
+ {
+   "#": 767,
+   "Title": "reorganize-string",
+   "Score": 2.064
+ },
+ {
+   "#": 117,
+   "Title": "populating-next-right-pointers-in-each-node-ii",
+   "Score": 2.066
+ },
+ {
+   "#": 1371,
+   "Title": "find-the-longest-substring-containing-vowels-in-even-counts",
+   "Score": 2.066
+ },
+ {
+   "#": 550,
+   "Title": "game-play-analysis-iv",
+   "Score": 2.068
+ },
+ {
+   "#": 802,
+   "Title": "find-eventual-safe-states",
+   "Score": 2.068
+ },
+ {
+   "#": 911,
+   "Title": "online-election",
+   "Score": 2.071
+ },
+ {
+   "#": 180,
+   "Title": "consecutive-numbers",
+   "Score": 2.077
+ },
+ {
+   "#": 145,
+   "Title": "binary-tree-postorder-traversal",
+   "Score": 2.078
+ },
+ {
+   "#": 438,
+   "Title": "find-all-anagrams-in-a-string",
+   "Score": 2.08
+ },
+ {
+   "#": 1131,
+   "Title": "maximum-of-absolute-value-expression",
+   "Score": 2.082
+ },
+ {
+   "#": 963,
+   "Title": "minimum-area-rectangle-ii",
+   "Score": 2.083
+ },
+ {
+   "#": 1402,
+   "Title": "reducing-dishes",
+   "Score": 2.084
+ },
+ {
+   "#": 1362,
+   "Title": "closest-divisors",
+   "Score": 2.085
+ },
+ {
+   "#": 435,
+   "Title": "nonoverlapping-intervals",
+   "Score": 2.088
+ },
+ {
+   "#": 1341,
+   "Title": "movie-rating",
+   "Score": 2.088
+ },
+ {
+   "#": 201,
+   "Title": "bitwise-and-of-numbers-range",
+   "Score": 2.09
+ },
+ {
+   "#": 1109,
+   "Title": "corporate-flight-bookings",
+   "Score": 2.091
+ },
+ {
+   "#": 450,
+   "Title": "delete-node-in-a-bst",
+   "Score": 2.092
+ },
+ {
+   "#": 134,
+   "Title": "gas-station",
+   "Score": 2.094
+ },
+ {
+   "#": 558,
+   "Title": "logical-or-of-two-binary-grids-represented-as-quadtrees",
+   "Score": 2.095
+ },
+ {
+   "#": 1117,
+   "Title": "building-h2o",
+   "Score": 2.095
+ },
+ {
+   "#": 528,
+   "Title": "random-pick-with-weight",
+   "Score": 2.097
+ },
+ {
+   "#": 567,
+   "Title": "permutation-in-string",
+   "Score": 2.099
+ },
+ {
+   "#": 6,
+   "Title": "zigzag-conversion",
+   "Score": 2.101
+ },
+ {
+   "#": 838,
+   "Title": "push-dominoes",
+   "Score": 2.101
+ },
+ {
+   "#": 187,
+   "Title": "repeated-dna-sequences",
+   "Score": 2.103
+ },
+ {
+   "#": 228,
+   "Title": "summary-ranges",
+   "Score": 2.103
+ },
+ {
+   "#": 285,
+   "Title": "inorder-successor-in-bst",
+   "Score": 2.104
+ },
+ {
+   "#": 388,
+   "Title": "longest-absolute-file-path",
+   "Score": 2.105
+ },
+ {
+   "#": 1493,
+   "Title": "longest-subarray-of-1s-after-deleting-one-element",
+   "Score": 2.108
+ },
+ {
+   "#": 785,
+   "Title": "is-graph-bipartite",
+   "Score": 2.109
+ },
+ {
+   "#": 792,
+   "Title": "number-of-matching-subsequences",
+   "Score": 2.109
+ },
+ {
+   "#": 474,
+   "Title": "ones-and-zeroes",
+   "Score": 2.11
+ },
+ {
+   "#": 560,
+   "Title": "subarray-sum-equals-k",
+   "Score": 2.112
+ },
+ {
+   "#": 34,
+   "Title": "find-first-and-last-position-of-element-in-sorted-array",
+   "Score": 2.118
+ },
+ {
+   "#": 331,
+   "Title": "verify-preorder-serialization-of-a-binary-tree",
+   "Score": 2.12
+ },
+ {
+   "#": 395,
+   "Title": "longest-substring-with-at-least-k-repeating-characters",
+   "Score": 2.121
+ },
+ {
+   "#": 82,
+   "Title": "remove-duplicates-from-sorted-list-ii",
+   "Score": 2.122
+ },
+ {
+   "#": 74,
+   "Title": "search-a-2d-matrix",
+   "Score": 2.124
+ },
+ {
+   "#": 809,
+   "Title": "expressive-words",
+   "Score": 2.124
+ },
+ {
+   "#": 1471,
+   "Title": "the-k-strongest-values-in-an-array",
+   "Score": 2.124
+ },
+ {
+   "#": 433,
+   "Title": "minimum-genetic-mutation",
+   "Score": 2.126
+ },
+ {
+   "#": 1182,
+   "Title": "shortest-distance-to-target-color",
+   "Score": 2.126
+ },
+ {
+   "#": 816,
+   "Title": "ambiguous-coordinates",
+   "Score": 2.13
+ },
+ {
+   "#": 1007,
+   "Title": "minimum-domino-rotations-for-equal-row",
+   "Score": 2.13
+ },
+ {
+   "#": 334,
+   "Title": "increasing-triplet-subsequence",
+   "Score": 2.131
+ },
+ {
+   "#": 1376,
+   "Title": "time-needed-to-inform-all-employees",
+   "Score": 2.134
+ },
+ {
+   "#": 525,
+   "Title": "contiguous-array",
+   "Score": 2.135
+ },
+ {
+   "#": 1333,
+   "Title": "filter-restaurants-by-veganfriendly-price-and-distance",
+   "Score": 2.136
+ },
+ {
+   "#": 142,
+   "Title": "linked-list-cycle-ii",
+   "Score": 2.137
+ },
+ {
+   "#": 209,
+   "Title": "minimum-size-subarray-sum",
+   "Score": 2.137
+ },
+ {
+   "#": 417,
+   "Title": "pacific-atlantic-water-flow",
+   "Score": 2.138
+ },
+ {
+   "#": 681,
+   "Title": "next-closest-time",
+   "Score": 2.138
+ },
+ {
+   "#": 737,
+   "Title": "sentence-similarity-ii",
+   "Score": 2.138
+ },
+ {
+   "#": 873,
+   "Title": "length-of-longest-fibonacci-subsequence",
+   "Score": 2.138
+ },
+ {
+   "#": 19,
+   "Title": "remove-nth-node-from-end-of-list",
+   "Score": 2.141
+ },
+ {
+   "#": 698,
+   "Title": "partition-to-k-equal-sum-subsets",
+   "Score": 2.142
+ },
+ {
+   "#": 375,
+   "Title": "guess-number-higher-or-lower-ii",
+   "Score": 2.144
+ },
+ {
+   "#": 764,
+   "Title": "largest-plus-sign",
+   "Score": 2.145
+ },
+ {
+   "#": 1443,
+   "Title": "minimum-time-to-collect-all-apples-in-a-tree",
+   "Score": 2.147
+ },
+ {
+   "#": 143,
+   "Title": "reorder-list",
+   "Score": 2.148
+ },
+ {
+   "#": 795,
+   "Title": "number-of-subarrays-with-bounded-maximum",
+   "Score": 2.15
+ },
+ {
+   "#": 1145,
+   "Title": "binary-tree-coloring-game",
+   "Score": 2.151
+ },
+ {
+   "#": 622,
+   "Title": "design-circular-queue",
+   "Score": 2.152
+ },
+ {
+   "#": 223,
+   "Title": "rectangle-area",
+   "Score": 2.153
+ },
+ {
+   "#": 1296,
+   "Title": "divide-array-in-sets-of-k-consecutive-numbers",
+   "Score": 2.155
+ },
+ {
+   "#": 221,
+   "Title": "maximal-square",
+   "Score": 2.156
+ },
+ {
+   "#": 974,
+   "Title": "subarray-sums-divisible-by-k",
+   "Score": 2.157
+ },
+ {
+   "#": 1284,
+   "Title": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+   "Score": 2.157
+ },
+ {
+   "#": 593,
+   "Title": "valid-square",
+   "Score": 2.158
+ },
+ {
+   "#": 1229,
+   "Title": "meeting-scheduler",
+   "Score": 2.158
+ },
+ {
+   "#": 1255,
+   "Title": "maximum-score-words-formed-by-letters",
+   "Score": 2.161
+ },
+ {
+   "#": 916,
+   "Title": "word-subsets",
+   "Score": 2.162
+ },
+ {
+   "#": 1291,
+   "Title": "sequential-digits",
+   "Score": 2.162
+ },
+ {
+   "#": 1024,
+   "Title": "video-stitching",
+   "Score": 2.165
+ },
+ {
+   "#": 93,
+   "Title": "restore-ip-addresses",
+   "Score": 2.166
+ },
+ {
+   "#": 659,
+   "Title": "split-array-into-consecutive-subsequences",
+   "Score": 2.166
+ },
+ {
+   "#": 1081,
+   "Title": "smallest-subsequence-of-distinct-characters",
+   "Score": 2.166
+ },
+ {
+   "#": 33,
+   "Title": "search-in-rotated-sorted-array",
+   "Score": 2.167
+ },
+ {
+   "#": 934,
+   "Title": "shortest-bridge",
+   "Score": 2.167
+ },
+ {
+   "#": 376,
+   "Title": "wiggle-subsequence",
+   "Score": 2.168
+ },
+ {
+   "#": 555,
+   "Title": "split-concatenated-strings",
+   "Score": 2.169
+ },
+ {
+   "#": 150,
+   "Title": "evaluate-reverse-polish-notation",
+   "Score": 2.171
+ },
+ {
+   "#": 743,
+   "Title": "network-delay-time",
+   "Score": 2.171
+ },
+ {
+   "#": 138,
+   "Title": "copy-list-with-random-pointer",
+   "Score": 2.172
+ },
+ {
+   "#": 304,
+   "Title": "range-sum-query-2d--immutable",
+   "Score": 2.173
+ },
+ {
+   "#": 55,
+   "Title": "jump-game",
+   "Score": 2.174
+ },
+ {
+   "#": 616,
+   "Title": "add-bold-tag-in-string",
+   "Score": 2.175
+ },
+ {
+   "#": 79,
+   "Title": "word-search",
+   "Score": 2.176
+ },
+ {
+   "#": 211,
+   "Title": "add-and-search-word--data-structure-design",
+   "Score": 2.177
+ },
+ {
+   "#": 2,
+   "Title": "add-two-numbers",
+   "Score": 2.178
+ },
+ {
+   "#": 881,
+   "Title": "boats-to-save-people",
+   "Score": 2.178
+ },
+ {
+   "#": 1372,
+   "Title": "longest-zigzag-path-in-a-binary-tree",
+   "Score": 2.178
+ },
+ {
+   "#": 1041,
+   "Title": "robot-bounded-in-circle",
+   "Score": 2.18
+ },
+ {
+   "#": 184,
+   "Title": "department-highest-salary",
+   "Score": 2.181
+ },
+ {
+   "#": 670,
+   "Title": "maximum-swap",
+   "Score": 2.181
+ },
+ {
+   "#": 1039,
+   "Title": "minimum-score-triangulation-of-polygon",
+   "Score": 2.182
+ },
+ {
+   "#": 63,
+   "Title": "unique-paths-ii",
+   "Score": 2.185
+ },
+ {
+   "#": 227,
+   "Title": "basic-calculator-ii",
+   "Score": 2.185
+ },
+ {
+   "#": 1080,
+   "Title": "insufficient-nodes-in-root-to-leaf-paths",
+   "Score": 2.189
+ },
+ {
+   "#": 1319,
+   "Title": "number-of-operations-to-make-network-connected",
+   "Score": 2.189
+ },
+ {
+   "#": 1410,
+   "Title": "html-entity-parser",
+   "Score": 2.19
+ },
+ {
+   "#": 213,
+   "Title": "house-robber-ii",
+   "Score": 2.191
+ },
+ {
+   "#": 738,
+   "Title": "monotone-increasing-digits",
+   "Score": 2.191
+ },
+ {
+   "#": 18,
+   "Title": "4sum",
+   "Score": 2.193
+ },
+ {
+   "#": 1070,
+   "Title": "product-sales-analysis-iii",
+   "Score": 2.194
+ },
+ {
+   "#": 54,
+   "Title": "spiral-matrix",
+   "Score": 2.197
+ },
+ {
+   "#": 43,
+   "Title": "multiply-strings",
+   "Score": 2.198
+ },
+ {
+   "#": 1053,
+   "Title": "previous-permutation-with-one-swap",
+   "Score": 2.198
+ },
+ {
+   "#": 966,
+   "Title": "vowel-spellchecker",
+   "Score": 2.199
+ },
+ {
+   "#": 1102,
+   "Title": "path-with-maximum-minimum-value",
+   "Score": 2.199
+ },
+ {
+   "#": 994,
+   "Title": "rotting-oranges",
+   "Score": 2.2
+ },
+ {
+   "#": 1451,
+   "Title": "rearrange-words-in-a-sentence",
+   "Score": 2.2
+ },
+ {
+   "#": 368,
+   "Title": "largest-divisible-subset",
+   "Score": 2.21
+ },
+ {
+   "#": 870,
+   "Title": "advantage-shuffle",
+   "Score": 2.212
+ },
+ {
+   "#": 640,
+   "Title": "solve-the-equation",
+   "Score": 2.216
+ },
+ {
+   "#": 742,
+   "Title": "closest-leaf-in-a-binary-tree",
+   "Score": 2.216
+ },
+ {
+   "#": 267,
+   "Title": "palindrome-permutation-ii",
+   "Score": 2.221
+ },
+ {
+   "#": 133,
+   "Title": "clone-graph",
+   "Score": 2.222
+ },
+ {
+   "#": 945,
+   "Title": "minimum-increment-to-make-array-unique",
+   "Score": 2.225
+ },
+ {
+   "#": 1155,
+   "Title": "number-of-dice-rolls-with-target-sum",
+   "Score": 2.225
+ },
+ {
+   "#": 755,
+   "Title": "pour-water",
+   "Score": 2.226
+ },
+ {
+   "#": 978,
+   "Title": "longest-turbulent-subarray",
+   "Score": 2.228
+ },
+ {
+   "#": 848,
+   "Title": "shifting-letters",
+   "Score": 2.231
+ },
+ {
+   "#": 1093,
+   "Title": "statistics-from-a-large-sample",
+   "Score": 2.231
+ },
+ {
+   "#": 31,
+   "Title": "next-permutation",
+   "Score": 2.232
+ },
+ {
+   "#": 229,
+   "Title": "majority-element-ii",
+   "Score": 2.232
+ },
+ {
+   "#": 732,
+   "Title": "my-calendar-iii",
+   "Score": 2.232
+ },
+ {
+   "#": 1481,
+   "Title": "least-number-of-unique-integers-after-k-removals",
+   "Score": 2.234
+ },
+ {
+   "#": 1452,
+   "Title": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+   "Score": 2.236
+ },
+ {
+   "#": 569,
+   "Title": "median-employee-salary",
+   "Score": 2.237
+ },
+ {
+   "#": 275,
+   "Title": "hindex-ii",
+   "Score": 2.238
+ },
+ {
+   "#": 1156,
+   "Title": "swap-for-longest-repeated-character-substring",
+   "Score": 2.238
+ },
+ {
+   "#": 81,
+   "Title": "search-in-rotated-sorted-array-ii",
+   "Score": 2.239
+ },
+ {
+   "#": 831,
+   "Title": "masking-personal-information",
+   "Score": 2.239
+ },
+ {
+   "#": 274,
+   "Title": "hindex",
+   "Score": 2.24
+ },
+ {
+   "#": 662,
+   "Title": "maximum-width-of-binary-tree",
+   "Score": 2.24
+ },
+ {
+   "#": 915,
+   "Title": "partition-array-into-disjoint-intervals",
+   "Score": 2.24
+ },
+ {
+   "#": 542,
+   "Title": "01-matrix",
+   "Score": 2.241
+ },
+ {
+   "#": 393,
+   "Title": "utf8-validation",
+   "Score": 2.242
+ },
+ {
+   "#": 1138,
+   "Title": "alphabet-board-path",
+   "Score": 2.243
+ },
+ {
+   "#": 332,
+   "Title": "reconstruct-itinerary",
+   "Score": 2.245
+ },
+ {
+   "#": 478,
+   "Title": "generate-random-point-in-a-circle",
+   "Score": 2.25
+ },
+ {
+   "#": 988,
+   "Title": "smallest-string-starting-from-leaf",
+   "Score": 2.253
+ },
+ {
+   "#": 71,
+   "Title": "simplify-path",
+   "Score": 2.254
+ },
+ {
+   "#": 1149,
+   "Title": "article-views-ii",
+   "Score": 2.258
+ },
+ {
+   "#": 935,
+   "Title": "knight-dialer",
+   "Score": 2.26
+ },
+ {
+   "#": 971,
+   "Title": "flip-binary-tree-to-match-preorder-traversal",
+   "Score": 2.261
+ },
+ {
+   "#": 962,
+   "Title": "maximum-width-ramp",
+   "Score": 2.263
+ },
+ {
+   "#": 658,
+   "Title": "find-k-closest-elements",
+   "Score": 2.264
+ },
+ {
+   "#": 373,
+   "Title": "find-k-pairs-with-smallest-sums",
+   "Score": 2.265
+ },
+ {
+   "#": 886,
+   "Title": "possible-bipartition",
+   "Score": 2.266
+ },
+ {
+   "#": 1366,
+   "Title": "rank-teams-by-votes",
+   "Score": 2.267
+ },
+ {
+   "#": 545,
+   "Title": "boundary-of-binary-tree",
+   "Score": 2.269
+ },
+ {
+   "#": 991,
+   "Title": "broken-calculator",
+   "Score": 2.27
+ },
+ {
+   "#": 372,
+   "Title": "super-pow",
+   "Score": 2.271
+ },
+ {
+   "#": 822,
+   "Title": "card-flipping-game",
+   "Score": 2.271
+ },
+ {
+   "#": 333,
+   "Title": "largest-bst-subtree",
+   "Score": 2.272
+ },
+ {
+   "#": 634,
+   "Title": "find-the-derangement-of-an-array",
+   "Score": 2.273
+ },
+ {
+   "#": 1276,
+   "Title": "number-of-burgers-with-no-waste-of-ingredients",
+   "Score": 2.273
+ },
+ {
+   "#": 42,
+   "Title": "trapping-rain-water",
+   "Score": 2.275
+ },
+ {
+   "#": 146,
+   "Title": "lru-cache",
+   "Score": 2.277
+ },
+ {
+   "#": 473,
+   "Title": "matchsticks-to-square",
+   "Score": 2.277
+ },
+ {
+   "#": 775,
+   "Title": "global-and-local-inversions",
+   "Score": 2.278
+ },
+ {
+   "#": 1139,
+   "Title": "largest-1bordered-square",
+   "Score": 2.279
+ },
+ {
+   "#": 1456,
+   "Title": "maximum-number-of-vowels-in-a-substring-of-given-length",
+   "Score": 2.281
+ },
+ {
+   "#": 578,
+   "Title": "get-highest-answer-rate-question",
+   "Score": 2.282
+ },
+ {
+   "#": 322,
+   "Title": "coin-change",
+   "Score": 2.283
+ },
+ {
+   "#": 773,
+   "Title": "sliding-puzzle",
+   "Score": 2.284
+ },
+ {
+   "#": 855,
+   "Title": "exam-room",
+   "Score": 2.284
+ },
+ {
+   "#": 497,
+   "Title": "random-point-in-nonoverlapping-rectangles",
+   "Score": 2.285
+ },
+ {
+   "#": 396,
+   "Title": "rotate-function",
+   "Score": 2.286
+ },
+ {
+   "#": 825,
+   "Title": "friends-of-appropriate-ages",
+   "Score": 2.286
+ },
+ {
+   "#": 1230,
+   "Title": "toss-strange-coins",
+   "Score": 2.287
+ },
+ {
+   "#": 3,
+   "Title": "longest-substring-without-repeating-characters",
+   "Score": 2.29
+ },
+ {
+   "#": 735,
+   "Title": "asteroid-collision",
+   "Score": 2.292
+ },
+ {
+   "#": 990,
+   "Title": "satisfiability-of-equality-equations",
+   "Score": 2.293
+ },
+ {
+   "#": 469,
+   "Title": "convex-polygon",
+   "Score": 2.295
+ },
+ {
+   "#": 161,
+   "Title": "one-edit-distance",
+   "Score": 2.301
+ },
+ {
+   "#": 895,
+   "Title": "maximum-frequency-stack",
+   "Score": 2.301
+ },
+ {
+   "#": 307,
+   "Title": "range-sum-query--mutable",
+   "Score": 2.306
+ },
+ {
+   "#": 853,
+   "Title": "car-fleet",
+   "Score": 2.306
+ },
+ {
+   "#": 1361,
+   "Title": "validate-binary-tree-nodes",
+   "Score": 2.307
+ },
+ {
+   "#": 663,
+   "Title": "equal-tree-partition",
+   "Score": 2.309
+ },
+ {
+   "#": 50,
+   "Title": "powx-n",
+   "Score": 2.313
+ },
+ {
+   "#": 649,
+   "Title": "dota2-senate",
+   "Score": 2.313
+ },
+ {
+   "#": 1239,
+   "Title": "maximum-length-of-a-concatenated-string-with-unique-characters",
+   "Score": 2.314
+ },
+ {
+   "#": 1292,
+   "Title": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+   "Score": 2.314
+ },
+ {
+   "#": 302,
+   "Title": "smallest-rectangle-enclosing-black-pixels",
+   "Score": 2.315
+ },
+ {
+   "#": 1034,
+   "Title": "coloring-a-border",
+   "Score": 2.317
+ },
+ {
+   "#": 1274,
+   "Title": "number-of-ships-in-a-rectangle",
+   "Score": 2.317
+ },
+ {
+   "#": 1404,
+   "Title": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+   "Score": 2.318
+ },
+ {
+   "#": 152,
+   "Title": "maximum-product-subarray",
+   "Score": 2.32
+ },
+ {
+   "#": 5,
+   "Title": "longest-palindromic-substring",
+   "Score": 2.321
+ },
+ {
+   "#": 312,
+   "Title": "burst-balloons",
+   "Score": 2.321
+ },
+ {
+   "#": 1059,
+   "Title": "all-paths-from-source-lead-to-destination",
+   "Score": 2.323
+ },
+ {
+   "#": 904,
+   "Title": "fruit-into-baskets",
+   "Score": 2.324
+ },
+ {
+   "#": 930,
+   "Title": "binary-subarrays-with-sum",
+   "Score": 2.326
+ },
+ {
+   "#": 1503,
+   "Title": "last-moment-before-all-ants-fall-out-of-a-plank",
+   "Score": 2.33
+ },
+ {
+   "#": 61,
+   "Title": "rotate-list",
+   "Score": 2.332
+ },
+ {
+   "#": 1262,
+   "Title": "greatest-sum-divisible-by-three",
+   "Score": 2.332
+ },
+ {
+   "#": 519,
+   "Title": "random-flip-matrix",
+   "Score": 2.335
+ },
+ {
+   "#": 1107,
+   "Title": "new-users-daily-count",
+   "Score": 2.339
+ },
+ {
+   "#": 353,
+   "Title": "design-snake-game",
+   "Score": 2.341
+ },
+ {
+   "#": 467,
+   "Title": "unique-substrings-in-wraparound-string",
+   "Score": 2.343
+ },
+ {
+   "#": 713,
+   "Title": "subarray-product-less-than-k",
+   "Score": 2.343
+ },
+ {
+   "#": 1202,
+   "Title": "smallest-string-with-swaps",
+   "Score": 2.343
+ },
+ {
+   "#": 1049,
+   "Title": "last-stone-weight-ii",
+   "Score": 2.344
+ },
+ {
+   "#": 1509,
+   "Title": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+   "Score": 2.346
+ },
+ {
+   "#": 177,
+   "Title": "nth-highest-salary",
+   "Score": 2.348
+ },
+ {
+   "#": 272,
+   "Title": "closest-binary-search-tree-value-ii",
+   "Score": 2.348
+ },
+ {
+   "#": 527,
+   "Title": "word-abbreviation",
+   "Score": 2.35
+ },
+ {
+   "#": 1144,
+   "Title": "decrease-elements-to-make-array-zigzag",
+   "Score": 2.351
+ },
+ {
+   "#": 1412,
+   "Title": "find-the-quiet-students-in-all-exams",
+   "Score": 2.353
+ },
+ {
+   "#": 1096,
+   "Title": "brace-expansion-ii",
+   "Score": 2.356
+ },
+ {
+   "#": 1098,
+   "Title": "unpopular-books",
+   "Score": 2.358
+ },
+ {
+   "#": 1283,
+   "Title": "find-the-smallest-divisor-given-a-threshold",
+   "Score": 2.359
+ },
+ {
+   "#": 1297,
+   "Title": "maximum-number-of-occurrences-of-a-substring",
+   "Score": 2.362
+ },
+ {
+   "#": 385,
+   "Title": "mini-parser",
+   "Score": 2.366
+ },
+ {
+   "#": 808,
+   "Title": "soup-servings",
+   "Score": 2.369
+ },
+ {
+   "#": 787,
+   "Title": "cheapest-flights-within-k-stops",
+   "Score": 2.373
+ },
+ {
+   "#": 310,
+   "Title": "minimum-height-trees",
+   "Score": 2.376
+ },
+ {
+   "#": 1405,
+   "Title": "longest-happy-string",
+   "Score": 2.378
+ },
+ {
+   "#": 1223,
+   "Title": "dice-roll-simulation",
+   "Score": 2.379
+ },
+ {
+   "#": 790,
+   "Title": "domino-and-tromino-tiling",
+   "Score": 2.381
+ },
+ {
+   "#": 127,
+   "Title": "word-ladder",
+   "Score": 2.383
+ },
+ {
+   "#": 1205,
+   "Title": "monthly-transactions-ii",
+   "Score": 2.383
+ },
+ {
+   "#": 51,
+   "Title": "nqueens",
+   "Score": 2.385
+ },
+ {
+   "#": 271,
+   "Title": "encode-and-decode-strings",
+   "Score": 2.387
+ },
+ {
+   "#": 1054,
+   "Title": "distant-barcodes",
+   "Score": 2.389
+ },
+ {
+   "#": 957,
+   "Title": "prison-cells-after-n-days",
+   "Score": 2.395
+ },
+ {
+   "#": 1181,
+   "Title": "before-and-after-puzzle",
+   "Score": 2.395
+ },
+ {
+   "#": 801,
+   "Title": "minimum-swaps-to-make-sequences-increasing",
+   "Score": 2.396
+ },
+ {
+   "#": 397,
+   "Title": "integer-replacement",
+   "Score": 2.398
+ },
+ {
+   "#": 618,
+   "Title": "students-report-by-geography",
+   "Score": 2.399
+ },
+ {
+   "#": 1152,
+   "Title": "analyze-user-website-visit-pattern",
+   "Score": 2.401
+ },
+ {
+   "#": 1242,
+   "Title": "web-crawler-multithreaded",
+   "Score": 2.401
+ },
+ {
+   "#": 948,
+   "Title": "bag-of-tokens",
+   "Score": 2.404
+ },
+ {
+   "#": 15,
+   "Title": "3sum",
+   "Score": 2.414
+ },
+ {
+   "#": 356,
+   "Title": "line-reflection",
+   "Score": 2.414
+ },
+ {
+   "#": 418,
+   "Title": "sentence-screen-fitting",
+   "Score": 2.415
+ },
+ {
+   "#": 576,
+   "Title": "out-of-boundary-paths",
+   "Score": 2.415
+ },
+ {
+   "#": 1218,
+   "Title": "longest-arithmetic-subsequence-of-given-difference",
+   "Score": 2.419
+ },
+ {
+   "#": 826,
+   "Title": "most-profit-assigning-work",
+   "Score": 2.421
+ },
+ {
+   "#": 98,
+   "Title": "validate-binary-search-tree",
+   "Score": 2.422
+ },
+ {
+   "#": 522,
+   "Title": "longest-uncommon-subsequence-ii",
+   "Score": 2.422
+ },
+ {
+   "#": 1058,
+   "Title": "minimize-rounding-error-to-meet-target",
+   "Score": 2.424
+ },
+ {
+   "#": 1162,
+   "Title": "as-far-from-land-as-possible",
+   "Score": 2.425
+ },
+ {
+   "#": 1420,
+   "Title": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+   "Score": 2.428
+ },
+ {
+   "#": 130,
+   "Title": "surrounded-regions",
+   "Score": 2.43
+ },
+ {
+   "#": 1136,
+   "Title": "parallel-courses",
+   "Score": 2.43
+ },
+ {
+   "#": 179,
+   "Title": "largest-number",
+   "Score": 2.431
+ },
+ {
+   "#": 1429,
+   "Title": "first-unique-number",
+   "Score": 2.435
+ },
+ {
+   "#": 1500,
+   "Title": "design-a-file-sharing-system",
+   "Score": 2.437
+ },
+ {
+   "#": 400,
+   "Title": "nth-digit",
+   "Score": 2.439
+ },
+ {
+   "#": 673,
+   "Title": "number-of-longest-increasing-subsequence",
+   "Score": 2.439
+ },
+ {
+   "#": 1369,
+   "Title": "get-the-second-most-recent-activity",
+   "Score": 2.439
+ },
+ {
+   "#": 779,
+   "Title": "kth-symbol-in-grammar",
+   "Score": 2.441
+ },
+ {
+   "#": 1428,
+   "Title": "leftmost-column-with-at-least-a-one",
+   "Score": 2.442
+ },
+ {
+   "#": 1300,
+   "Title": "sum-of-mutated-array-closest-to-target",
+   "Score": 2.446
+ },
+ {
+   "#": 1419,
+   "Title": "minimum-number-of-frogs-croaking",
+   "Score": 2.457
+ },
+ {
+   "#": 324,
+   "Title": "wiggle-sort-ii",
+   "Score": 2.458
+ },
+ {
+   "#": 365,
+   "Title": "water-and-jug-problem",
+   "Score": 2.458
+ },
+ {
+   "#": 967,
+   "Title": "numbers-with-same-consecutive-differences",
+   "Score": 2.459
+ },
+ {
+   "#": 1225,
+   "Title": "report-contiguous-dates",
+   "Score": 2.461
+ },
+ {
+   "#": 909,
+   "Title": "snakes-and-ladders",
+   "Score": 2.464
+ },
+ {
+   "#": 355,
+   "Title": "design-twitter",
+   "Score": 2.467
+ },
+ {
+   "#": 1168,
+   "Title": "optimize-water-distribution-in-a-village",
+   "Score": 2.468
+ },
+ {
+   "#": 306,
+   "Title": "additive-number",
+   "Score": 2.469
+ },
+ {
+   "#": 660,
+   "Title": "remove-9",
+   "Score": 2.47
+ },
+ {
+   "#": 72,
+   "Title": "edit-distance",
+   "Score": 2.473
+ },
+ {
+   "#": 845,
+   "Title": "longest-mountain-in-array",
+   "Score": 2.473
+ },
+ {
+   "#": 165,
+   "Title": "compare-version-numbers",
+   "Score": 2.474
+ },
+ {
+   "#": 1334,
+   "Title": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+   "Score": 2.475
+ },
+ {
+   "#": 761,
+   "Title": "special-binary-string",
+   "Score": 2.478
+ },
+ {
+   "#": 1463,
+   "Title": "cherry-pickup-ii",
+   "Score": 2.482
+ },
+ {
+   "#": 1074,
+   "Title": "number-of-submatrices-that-sum-to-target",
+   "Score": 2.486
+ },
+ {
+   "#": 1171,
+   "Title": "remove-zero-sum-consecutive-nodes-from-linked-list",
+   "Score": 2.488
+ },
+ {
+   "#": 1391,
+   "Title": "check-if-there-is-a-valid-path-in-a-grid",
+   "Score": 2.489
+ },
+ {
+   "#": 128,
+   "Title": "longest-consecutive-sequence",
+   "Score": 2.492
+ },
+ {
+   "#": 765,
+   "Title": "couples-holding-hands",
+   "Score": 2.494
+ },
+ {
+   "#": 632,
+   "Title": "smallest-range-covering-elements-from-k-lists",
+   "Score": 2.496
+ },
+ {
+   "#": 842,
+   "Title": "split-array-into-fibonacci-sequence",
+   "Score": 2.498
+ },
+ {
+   "#": 297,
+   "Title": "serialize-and-deserialize-binary-tree",
+   "Score": 2.5
+ },
+ {
+   "#": 1208,
+   "Title": "get-equal-substrings-within-budget",
+   "Score": 2.5
+ },
+ {
+   "#": 1320,
+   "Title": "minimum-distance-to-type-a-word-using-two-fingers",
+   "Score": 2.5
+ },
+ {
+   "#": 722,
+   "Title": "remove-comments",
+   "Score": 2.502
+ },
+ {
+   "#": 1430,
+   "Title": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+   "Score": 2.502
+ },
+ {
+   "#": 799,
+   "Title": "champagne-tower",
+   "Score": 2.503
+ },
+ {
+   "#": 1311,
+   "Title": "get-watched-videos-by-your-friends",
+   "Score": 2.503
+ },
+ {
+   "#": 1328,
+   "Title": "break-a-palindrome",
+   "Score": 2.505
+ },
+ {
+   "#": 37,
+   "Title": "sudoku-solver",
+   "Score": 2.508
+ },
+ {
+   "#": 625,
+   "Title": "minimum-factorization",
+   "Score": 2.508
+ },
+ {
+   "#": 823,
+   "Title": "binary-trees-with-factors",
+   "Score": 2.511
+ },
+ {
+   "#": 1215,
+   "Title": "stepping-numbers",
+   "Score": 2.513
+ },
+ {
+   "#": 556,
+   "Title": "next-greater-element-iii",
+   "Score": 2.514
+ },
+ {
+   "#": 754,
+   "Title": "reach-a-number",
+   "Score": 2.514
+ },
+ {
+   "#": 1384,
+   "Title": "total-sales-amount-by-year",
+   "Score": 2.515
+ },
+ {
+   "#": 1352,
+   "Title": "product-of-the-last-k-numbers",
+   "Score": 2.517
+ },
+ {
+   "#": 777,
+   "Title": "swap-adjacent-in-lr-string",
+   "Score": 2.519
+ },
+ {
+   "#": 1482,
+   "Title": "minimum-number-of-days-to-make-m-bouquets",
+   "Score": 2.52
+ },
+ {
+   "#": 91,
+   "Title": "decode-ways",
+   "Score": 2.523
+ },
+ {
+   "#": 192,
+   "Title": "word-frequency",
+   "Score": 2.529
+ },
+ {
+   "#": 1106,
+   "Title": "parsing-a-boolean-expression",
+   "Score": 2.529
+ },
+ {
+   "#": 984,
+   "Title": "string-without-aaa-or-bbb",
+   "Score": 2.533
+ },
+ {
+   "#": 1461,
+   "Title": "check-if-a-string-contains-all-binary-codes-of-size-k",
+   "Score": 2.536
+ },
+ {
+   "#": 1289,
+   "Title": "minimum-falling-path-sum-ii",
+   "Score": 2.541
+ },
+ {
+   "#": 457,
+   "Title": "circular-array-loop",
+   "Score": 2.542
+ },
+ {
+   "#": 352,
+   "Title": "data-stream-as-disjoint-intervals",
+   "Score": 2.544
+ },
+ {
+   "#": 402,
+   "Title": "remove-k-digits",
+   "Score": 2.545
+ },
+ {
+   "#": 1147,
+   "Title": "longest-chunked-palindrome-decomposition",
+   "Score": 2.546
+ },
+ {
+   "#": 1129,
+   "Title": "shortest-path-with-alternating-colors",
+   "Score": 2.55
+ },
+ {
+   "#": 837,
+   "Title": "new-21-game",
+   "Score": 2.554
+ },
+ {
+   "#": 456,
+   "Title": "132-pattern",
+   "Score": 2.555
+ },
+ {
+   "#": 923,
+   "Title": "3sum-with-multiplicity",
+   "Score": 2.56
+ },
+ {
+   "#": 1253,
+   "Title": "reconstruct-a-2row-binary-matrix",
+   "Score": 2.561
+ },
+ {
+   "#": 464,
+   "Title": "can-i-win",
+   "Score": 2.562
+ },
+ {
+   "#": 1091,
+   "Title": "shortest-path-in-binary-matrix",
+   "Score": 2.562
+ },
+ {
+   "#": 778,
+   "Title": "swim-in-rising-water",
+   "Score": 2.563
+ },
+ {
+   "#": 25,
+   "Title": "reverse-nodes-in-kgroup",
+   "Score": 2.566
+ },
+ {
+   "#": 163,
+   "Title": "missing-ranges",
+   "Score": 2.568
+ },
+ {
+   "#": 1432,
+   "Title": "max-difference-you-can-get-from-changing-an-integer",
+   "Score": 2.568
+ },
+ {
+   "#": 425,
+   "Title": "word-squares",
+   "Score": 2.569
+ },
+ {
+   "#": 898,
+   "Title": "bitwise-ors-of-subarrays",
+   "Score": 2.57
+ },
+ {
+   "#": 982,
+   "Title": "triples-with-bitwise-and-equal-to-zero",
+   "Score": 2.576
+ },
+ {
+   "#": 954,
+   "Title": "array-of-doubled-pairs",
+   "Score": 2.578
+ },
+ {
+   "#": 1278,
+   "Title": "palindrome-partitioning-iii",
+   "Score": 2.578
+ },
+ {
+   "#": 1438,
+   "Title": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+   "Score": 2.581
+ },
+ {
+   "#": 194,
+   "Title": "transpose-file",
+   "Score": 2.586
+ },
+ {
+   "#": 708,
+   "Title": "insert-into-a-sorted-circular-linked-list",
+   "Score": 2.587
+ },
+ {
+   "#": 1401,
+   "Title": "circle-and-rectangle-overlapping",
+   "Score": 2.589
+ },
+ {
+   "#": 458,
+   "Title": "poor-pigs",
+   "Score": 2.594
+ },
+ {
+   "#": 987,
+   "Title": "vertical-order-traversal-of-a-binary-tree",
+   "Score": 2.594
+ },
+ {
+   "#": 614,
+   "Title": "second-degree-follower",
+   "Score": 2.595
+ },
+ {
+   "#": 678,
+   "Title": "valid-parenthesis-string",
+   "Score": 2.596
+ },
+ {
+   "#": 794,
+   "Title": "valid-tictactoe-state",
+   "Score": 2.596
+ },
+ {
+   "#": 265,
+   "Title": "paint-house-ii",
+   "Score": 2.597
+ },
+ {
+   "#": 1411,
+   "Title": "number-of-ways-to-paint-n-×-3-grid",
+   "Score": 2.597
+ },
+ {
+   "#": 1424,
+   "Title": "diagonal-traverse-ii",
+   "Score": 2.597
+ },
+ {
+   "#": 1423,
+   "Title": "maximum-points-you-can-obtain-from-cards",
+   "Score": 2.607
+ },
+ {
+   "#": 1121,
+   "Title": "divide-array-into-increasing-sequences",
+   "Score": 2.608
+ },
+ {
+   "#": 1497,
+   "Title": "check-if-array-pairs-are-divisible-by-k",
+   "Score": 2.613
+ },
+ {
+   "#": 1146,
+   "Title": "snapshot-array",
+   "Score": 2.618
+ },
+ {
+   "#": 471,
+   "Title": "encode-string-with-shortest-length",
+   "Score": 2.62
+ },
+ {
+   "#": 1467,
+   "Title": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+   "Score": 2.625
+ },
+ {
+   "#": 918,
+   "Title": "maximum-sum-circular-subarray",
+   "Score": 2.626
+ },
+ {
+   "#": 465,
+   "Title": "optimal-account-balancing",
+   "Score": 2.629
+ },
+ {
+   "#": 1186,
+   "Title": "maximum-subarray-sum-with-one-deletion",
+   "Score": 2.634
+ },
+ {
+   "#": 1298,
+   "Title": "maximum-candies-you-can-get-from-boxes",
+   "Score": 2.634
+ },
+ {
+   "#": 1462,
+   "Title": "course-schedule-iv",
+   "Score": 2.635
+ },
+ {
+   "#": 295,
+   "Title": "find-median-from-data-stream",
+   "Score": 2.638
+ },
+ {
+   "#": 23,
+   "Title": "merge-k-sorted-lists",
+   "Score": 2.639
+ },
+ {
+   "#": 960,
+   "Title": "delete-columns-to-make-sorted-iii",
+   "Score": 2.641
+ },
+ {
+   "#": 1367,
+   "Title": "linked-list-in-binary-tree",
+   "Score": 2.642
+ },
+ {
+   "#": 151,
+   "Title": "reverse-words-in-a-string",
+   "Score": 2.644
+ },
+ {
+   "#": 847,
+   "Title": "shortest-path-visiting-all-nodes",
+   "Score": 2.651
+ },
+ {
+   "#": 955,
+   "Title": "delete-columns-to-make-sorted-ii",
+   "Score": 2.654
+ },
+ {
+   "#": 1206,
+   "Title": "design-skiplist",
+   "Score": 2.654
+ },
+ {
+   "#": 239,
+   "Title": "sliding-window-maximum",
+   "Score": 2.655
+ },
+ {
+   "#": 753,
+   "Title": "cracking-the-safe",
+   "Score": 2.656
+ },
+ {
+   "#": 166,
+   "Title": "fraction-to-recurring-decimal",
+   "Score": 2.658
+ },
+ {
+   "#": 291,
+   "Title": "word-pattern-ii",
+   "Score": 2.666
+ },
+ {
+   "#": 907,
+   "Title": "sum-of-subarray-minimums",
+   "Score": 2.667
+ },
+ {
+   "#": 340,
+   "Title": "longest-substring-with-at-most-k-distinct-characters",
+   "Score": 2.671
+ },
+ {
+   "#": 1197,
+   "Title": "minimum-knight-moves",
+   "Score": 2.675
+ },
+ {
+   "#": 301,
+   "Title": "remove-invalid-parentheses",
+   "Score": 2.681
+ },
+ {
+   "#": 899,
+   "Title": "orderly-queue",
+   "Score": 2.684
+ },
+ {
+   "#": 1073,
+   "Title": "adding-two-negabinary-numbers",
+   "Score": 2.684
+ },
+ {
+   "#": 1312,
+   "Title": "minimum-insertion-steps-to-make-a-string-palindrome",
+   "Score": 2.691
+ },
+ {
+   "#": 410,
+   "Title": "split-array-largest-sum",
+   "Score": 2.694
+ },
+ {
+   "#": 329,
+   "Title": "longest-increasing-path-in-a-matrix",
+   "Score": 2.695
+ },
+ {
+   "#": 154,
+   "Title": "find-minimum-in-rotated-sorted-array-ii",
+   "Score": 2.696
+ },
+ {
+   "#": 1513,
+   "Title": "number-of-substrings-with-only-1s",
+   "Score": 2.696
+ },
+ {
+   "#": 1390,
+   "Title": "four-divisors",
+   "Score": 2.702
+ },
+ {
+   "#": 1132,
+   "Title": "reported-posts-ii",
+   "Score": 2.703
+ },
+ {
+   "#": 220,
+   "Title": "contains-duplicate-iii",
+   "Score": 2.704
+ },
+ {
+   "#": 288,
+   "Title": "unique-word-abbreviation",
+   "Score": 2.707
+ },
+ {
+   "#": 1097,
+   "Title": "game-play-analysis-v",
+   "Score": 2.707
+ },
+ {
+   "#": 1439,
+   "Title": "find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+   "Score": 2.707
+ },
+ {
+   "#": 726,
+   "Title": "number-of-atoms",
+   "Score": 2.709
+ },
+ {
+   "#": 1339,
+   "Title": "maximum-product-of-splitted-binary-tree",
+   "Score": 2.711
+ },
+ {
+   "#": 99,
+   "Title": "recover-binary-search-tree",
+   "Score": 2.714
+ },
+ {
+   "#": 1177,
+   "Title": "can-make-palindrome-from-substring",
+   "Score": 2.718
+ },
+ {
+   "#": 468,
+   "Title": "validate-ip-address",
+   "Score": 2.721
+ },
+ {
+   "#": 1015,
+   "Title": "smallest-integer-divisible-by-k",
+   "Score": 2.722
+ },
+ {
+   "#": 1359,
+   "Title": "count-all-valid-pickup-and-delivery-options",
+   "Score": 2.722
+ },
+ {
+   "#": 1340,
+   "Title": "jump-game-v",
+   "Score": 2.727
+ },
+ {
+   "#": 523,
+   "Title": "continuous-subarray-sum",
+   "Score": 2.728
+ },
+ {
+   "#": 1335,
+   "Title": "minimum-difficulty-of-a-job-schedule",
+   "Score": 2.728
+ },
+ {
+   "#": 1250,
+   "Title": "check-if-it-is-a-good-array",
+   "Score": 2.735
+ },
+ {
+   "#": 768,
+   "Title": "max-chunks-to-make-sorted-ii",
+   "Score": 2.745
+ },
+ {
+   "#": 615,
+   "Title": "average-salary-departments-vs-company",
+   "Score": 2.747
+ },
+ {
+   "#": 1124,
+   "Title": "longest-wellperforming-interval",
+   "Score": 2.752
+ },
+ {
+   "#": 857,
+   "Title": "minimum-cost-to-hire-k-workers",
+   "Score": 2.758
+ },
+ {
+   "#": 29,
+   "Title": "divide-two-integers",
+   "Score": 2.759
+ },
+ {
+   "#": 588,
+   "Title": "design-inmemory-file-system",
+   "Score": 2.761
+ },
+ {
+   "#": 1516,
+   "Title": "move-subtree-of-nary-tree--new",
+   "Score": 2.761
+ },
+ {
+   "#": 1183,
+   "Title": "maximum-number-of-ones",
+   "Score": 2.762
+ },
+ {
+   "#": 315,
+   "Title": "count-of-smaller-numbers-after-self",
+   "Score": 2.765
+ },
+ {
+   "#": 711,
+   "Title": "number-of-distinct-islands-ii",
+   "Score": 2.765
+ },
+ {
+   "#": 317,
+   "Title": "shortest-distance-from-all-buildings",
+   "Score": 2.77
+ },
+ {
+   "#": 444,
+   "Title": "sequence-reconstruction",
+   "Score": 2.772
+ },
+ {
+   "#": 736,
+   "Title": "parse-lisp-expression",
+   "Score": 2.772
+ },
+ {
+   "#": 472,
+   "Title": "concatenated-words",
+   "Score": 2.778
+ },
+ {
+   "#": 115,
+   "Title": "distinct-subsequences",
+   "Score": 2.781
+ },
+ {
+   "#": 8,
+   "Title": "string-to-integer-atoi",
+   "Score": 2.785
+ },
+ {
+   "#": 571,
+   "Title": "find-median-given-frequency-of-numbers",
+   "Score": 2.785
+ },
+ {
+   "#": 770,
+   "Title": "basic-calculator-iv",
+   "Score": 2.785
+ },
+ {
+   "#": 1454,
+   "Title": "active-users",
+   "Score": 2.786
+ },
+ {
+   "#": 85,
+   "Title": "maximal-rectangle",
+   "Score": 2.788
+ },
+ {
+   "#": 679,
+   "Title": "24-game",
+   "Score": 2.788
+ },
+ {
+   "#": 903,
+   "Title": "valid-permutations-for-di-sequence",
+   "Score": 2.788
+ },
+ {
+   "#": 407,
+   "Title": "trapping-rain-water-ii",
+   "Score": 2.789
+ },
+ {
+   "#": 810,
+   "Title": "chalkboard-xor-game",
+   "Score": 2.794
+ },
+ {
+   "#": 1234,
+   "Title": "replace-the-substring-for-balanced-string",
+   "Score": 2.795
+ },
+ {
+   "#": 689,
+   "Title": "maximum-sum-of-3-nonoverlapping-subarrays",
+   "Score": 2.799
+ },
+ {
+   "#": 248,
+   "Title": "strobogrammatic-number-iii",
+   "Score": 2.805
+ },
+ {
+   "#": 1220,
+   "Title": "count-vowels-permutation",
+   "Score": 2.807
+ },
+ {
+   "#": 1498,
+   "Title": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+   "Score": 2.807
+ },
+ {
+   "#": 305,
+   "Title": "number-of-islands-ii",
+   "Score": 2.815
+ },
+ {
+   "#": 1386,
+   "Title": "cinema-seat-allocation",
+   "Score": 2.815
+ },
+ {
+   "#": 668,
+   "Title": "kth-smallest-number-in-multiplication-table",
+   "Score": 2.816
+ },
+ {
+   "#": 1159,
+   "Title": "market-analysis-ii",
+   "Score": 2.816
+ },
+ {
+   "#": 1169,
+   "Title": "invalid-transactions",
+   "Score": 2.819
+ },
+ {
+   "#": 774,
+   "Title": "minimize-max-distance-to-gas-station",
+   "Score": 2.823
+ },
+ {
+   "#": 123,
+   "Title": "best-time-to-buy-and-sell-stock-iii",
+   "Score": 2.825
+ },
+ {
+   "#": 707,
+   "Title": "design-linked-list",
+   "Score": 2.827
+ },
+ {
+   "#": 1092,
+   "Title": "shortest-common-supersequence",
+   "Score": 2.83
+ },
+ {
+   "#": 1194,
+   "Title": "tournament-winners",
+   "Score": 2.83
+ },
+ {
+   "#": 514,
+   "Title": "freedom-trail",
+   "Score": 2.831
+ },
+ {
+   "#": 1406,
+   "Title": "stone-game-iii",
+   "Score": 2.835
+ },
+ {
+   "#": 642,
+   "Title": "design-search-autocomplete-system",
+   "Score": 2.839
+ },
+ {
+   "#": 850,
+   "Title": "rectangle-area-ii",
+   "Score": 2.845
+ },
+ {
+   "#": 1259,
+   "Title": "handshakes-that-dont-cross",
+   "Score": 2.845
+ },
+ {
+   "#": 1514,
+   "Title": "path-with-maximum-probability",
+   "Score": 2.847
+ },
+ {
+   "#": 910,
+   "Title": "smallest-range-ii",
+   "Score": 2.852
+ },
+ {
+   "#": 546,
+   "Title": "remove-boxes",
+   "Score": 2.869
+ },
+ {
+   "#": 1231,
+   "Title": "divide-chocolate",
+   "Score": 2.88
+ },
+ {
+   "#": 866,
+   "Title": "prime-palindrome",
+   "Score": 2.887
+ },
+ {
+   "#": 843,
+   "Title": "guess-the-word",
+   "Score": 2.898
+ },
+ {
+   "#": 1368,
+   "Title": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+   "Score": 2.898
+ },
+ {
+   "#": 84,
+   "Title": "largest-rectangle-in-histogram",
+   "Score": 2.901
+ },
+ {
+   "#": 992,
+   "Title": "subarrays-with-k-different-integers",
+   "Score": 2.902
+ },
+ {
+   "#": 403,
+   "Title": "frog-jump",
+   "Score": 2.904
+ },
+ {
+   "#": 499,
+   "Title": "the-maze-iii",
+   "Score": 2.909
+ },
+ {
+   "#": 76,
+   "Title": "minimum-window-substring",
+   "Score": 2.913
+ },
+ {
+   "#": 880,
+   "Title": "decoded-string-at-index",
+   "Score": 2.913
+ },
+ {
+   "#": 224,
+   "Title": "basic-calculator",
+   "Score": 2.916
+ },
+ {
+   "#": 749,
+   "Title": "contain-virus",
+   "Score": 2.916
+ },
+ {
+   "#": 1478,
+   "Title": "allocate-mailboxes",
+   "Score": 2.916
+ },
+ {
+   "#": 827,
+   "Title": "making-a-large-island",
+   "Score": 2.918
+ },
+ {
+   "#": 996,
+   "Title": "number-of-squareful-arrays",
+   "Score": 2.922
+ },
+ {
+   "#": 1353,
+   "Title": "maximum-number-of-events-that-can-be-attended",
+   "Score": 2.931
+ },
+ {
+   "#": 1032,
+   "Title": "stream-of-characters",
+   "Score": 2.932
+ },
+ {
+   "#": 920,
+   "Title": "number-of-music-playlists",
+   "Score": 2.934
+ },
+ {
+   "#": 164,
+   "Title": "maximum-gap",
+   "Score": 2.935
+ },
+ {
+   "#": 502,
+   "Title": "ipo",
+   "Score": 2.937
+ },
+ {
+   "#": 488,
+   "Title": "zuma-game",
+   "Score": 2.941
+ },
+ {
+   "#": 828,
+   "Title": "count-unique-characters-of-all-substrings-of-a-given-string",
+   "Score": 2.941
+ },
+ {
+   "#": 601,
+   "Title": "human-traffic-of-stadium",
+   "Score": 2.948
+ },
+ {
+   "#": 57,
+   "Title": "insert-interval",
+   "Score": 2.949
+ },
+ {
+   "#": 1519,
+   "Title": "number-of-nodes-in-the-subtree-with-the-same-label",
+   "Score": 2.952
+ },
+ {
+   "#": 691,
+   "Title": "stickers-to-spell-word",
+   "Score": 2.953
+ },
+ {
+   "#": 124,
+   "Title": "binary-tree-maximum-path-sum",
+   "Score": 2.957
+ },
+ {
+   "#": 568,
+   "Title": "maximum-vacation-days",
+   "Score": 2.958
+ },
+ {
+   "#": 1127,
+   "Title": "user-purchase-platform",
+   "Score": 2.958
+ },
+ {
+   "#": 87,
+   "Title": "scramble-string",
+   "Score": 2.96
+ },
+ {
+   "#": 798,
+   "Title": "smallest-rotation-with-highest-score",
+   "Score": 2.965
+ },
+ {
+   "#": 995,
+   "Title": "minimum-number-of-k-consecutive-bit-flips",
+   "Score": 2.969
+ },
+ {
+   "#": 363,
+   "Title": "max-sum-of-rectangle-no-larger-than-k",
+   "Score": 2.975
+ },
+ {
+   "#": 1465,
+   "Title": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+   "Score": 2.981
+ },
+ {
+   "#": 1348,
+   "Title": "tweet-counts-per-frequency",
+   "Score": 2.991
+ },
+ {
+   "#": 1240,
+   "Title": "tiling-a-rectangle-with-the-fewest-squares",
+   "Score": 2.995
+ },
+ {
+   "#": 212,
+   "Title": "word-search-ii",
+   "Score": 2.996
+ },
+ {
+   "#": 699,
+   "Title": "falling-squares",
+   "Score": 2.998
+ },
+ {
+   "#": 41,
+   "Title": "first-missing-positive",
+   "Score": 3.004
+ },
+ {
+   "#": 185,
+   "Title": "department-top-three-salaries",
+   "Score": 3.005
+ },
+ {
+   "#": 282,
+   "Title": "expression-add-operators",
+   "Score": 3.006
+ },
+ {
+   "#": 1191,
+   "Title": "kconcatenation-maximum-sum",
+   "Score": 3.007
+ },
+ {
+   "#": 1444,
+   "Title": "number-of-ways-of-cutting-a-pizza",
+   "Score": 3.008
+ },
+ {
+   "#": 218,
+   "Title": "the-skyline-problem",
+   "Score": 3.009
+ },
+ {
+   "#": 834,
+   "Title": "sum-of-distances-in-tree",
+   "Score": 3.01
+ },
+ {
+   "#": 1192,
+   "Title": "critical-connections-in-a-network",
+   "Score": 3.012
+ },
+ {
+   "#": 1201,
+   "Title": "ugly-number-iii",
+   "Score": 3.015
+ },
+ {
+   "#": 158,
+   "Title": "read-n-characters-given-read4-ii--call-multiple-times",
+   "Score": 3.018
+ },
+ {
+   "#": 316,
+   "Title": "remove-duplicate-letters",
+   "Score": 3.019
+ },
+ {
+   "#": 730,
+   "Title": "count-different-palindromic-subsequences",
+   "Score": 3.022
+ },
+ {
+   "#": 308,
+   "Title": "range-sum-query-2d--mutable",
+   "Score": 3.023
+ },
+ {
+   "#": 727,
+   "Title": "minimum-window-subsequence",
+   "Score": 3.025
+ },
+ {
+   "#": 517,
+   "Title": "super-washing-machines",
+   "Score": 3.034
+ },
+ {
+   "#": 815,
+   "Title": "bus-routes",
+   "Score": 3.042
+ },
+ {
+   "#": 354,
+   "Title": "russian-doll-envelopes",
+   "Score": 3.048
+ },
+ {
+   "#": 1487,
+   "Title": "making-file-names-unique",
+   "Score": 3.048
+ },
+ {
+   "#": 664,
+   "Title": "strange-printer",
+   "Score": 3.05
+ },
+ {
+   "#": 327,
+   "Title": "count-of-range-sum",
+   "Score": 3.052
+ },
+ {
+   "#": 411,
+   "Title": "minimum-unique-word-abbreviation",
+   "Score": 3.054
+ },
+ {
+   "#": 480,
+   "Title": "sliding-window-median",
+   "Score": 3.059
+ },
+ {
+   "#": 1477,
+   "Title": "find-two-nonoverlapping-subarrays-each-with-target-sum",
+   "Score": 3.06
+ },
+ {
+   "#": 1125,
+   "Title": "smallest-sufficient-team",
+   "Score": 3.066
+ },
+ {
+   "#": 97,
+   "Title": "interleaving-string",
+   "Score": 3.067
+ },
+ {
+   "#": 45,
+   "Title": "jump-game-ii",
+   "Score": 3.068
+ },
+ {
+   "#": 1203,
+   "Title": "sort-items-by-groups-respecting-dependencies",
+   "Score": 3.068
+ },
+ {
+   "#": 1216,
+   "Title": "valid-palindrome-iii",
+   "Score": 3.071
+ },
+ {
+   "#": 772,
+   "Title": "basic-calculator-iii",
+   "Score": 3.075
+ },
+ {
+   "#": 786,
+   "Title": "kth-smallest-prime-fraction",
+   "Score": 3.076
+ },
+ {
+   "#": 330,
+   "Title": "patching-array",
+   "Score": 3.08
+ },
+ {
+   "#": 964,
+   "Title": "least-operators-to-express-number",
+   "Score": 3.08
+ },
+ {
+   "#": 174,
+   "Title": "dungeon-game",
+   "Score": 3.081
+ },
+ {
+   "#": 140,
+   "Title": "word-break-ii",
+   "Score": 3.085
+ },
+ {
+   "#": 358,
+   "Title": "rearrange-string-k-distance-apart",
+   "Score": 3.085
+ },
+ {
+   "#": 782,
+   "Title": "transform-to-chessboard",
+   "Score": 3.086
+ },
+ {
+   "#": 135,
+   "Title": "candy",
+   "Score": 3.087
+ },
+ {
+   "#": 269,
+   "Title": "alien-dictionary",
+   "Score": 3.089
+ },
+ {
+   "#": 4,
+   "Title": "median-of-two-sorted-arrays",
+   "Score": 3.09
+ },
+ {
+   "#": 943,
+   "Title": "find-the-shortest-superstring",
+   "Score": 3.111
+ },
+ {
+   "#": 757,
+   "Title": "set-intersection-size-at-least-two",
+   "Score": 3.118
+ },
+ {
+   "#": 336,
+   "Title": "palindrome-pairs",
+   "Score": 3.119
+ },
+ {
+   "#": 1520,
+   "Title": "maximum-number-of-nonoverlapping-substrings",
+   "Score": 3.12
+ },
+ {
+   "#": 793,
+   "Title": "preimage-size-of-factorial-zeroes-function",
+   "Score": 3.124
+ },
+ {
+   "#": 483,
+   "Title": "smallest-good-base",
+   "Score": 3.126
+ },
+ {
+   "#": 936,
+   "Title": "stamping-the-sequence",
+   "Score": 3.128
+ },
+ {
+   "#": 924,
+   "Title": "minimize-malware-spread",
+   "Score": 3.129
+ },
+ {
+   "#": 381,
+   "Title": "insert-delete-getrandom-o1--duplicates-allowed",
+   "Score": 3.131
+ },
+ {
+   "#": 552,
+   "Title": "student-attendance-record-ii",
+   "Score": 3.131
+ },
+ {
+   "#": 579,
+   "Title": "find-cumulative-salary-of-an-employee",
+   "Score": 3.131
+ },
+ {
+   "#": 262,
+   "Title": "trips-and-users",
+   "Score": 3.133
+ },
+ {
+   "#": 882,
+   "Title": "reachable-nodes-in-subdivided-graph",
+   "Score": 3.133
+ },
+ {
+   "#": 975,
+   "Title": "odd-even-jump",
+   "Score": 3.14
+ },
+ {
+   "#": 132,
+   "Title": "palindrome-partitioning-ii",
+   "Score": 3.142
+ },
+ {
+   "#": 1489,
+   "Title": "find-critical-and-pseudocritical-edges-in-minimum-spanning-tree",
+   "Score": 3.146
+ },
+ {
+   "#": 715,
+   "Title": "range-module",
+   "Score": 3.148
+ },
+ {
+   "#": 233,
+   "Title": "number-of-digit-one",
+   "Score": 3.154
+ },
+ {
+   "#": 32,
+   "Title": "longest-valid-parentheses",
+   "Score": 3.16
+ },
+ {
+   "#": 940,
+   "Title": "distinct-subsequences-ii",
+   "Score": 3.161
+ },
+ {
+   "#": 1246,
+   "Title": "palindrome-removal",
+   "Score": 3.161
+ },
+ {
+   "#": 1088,
+   "Title": "confusing-number-ii",
+   "Score": 3.164
+ },
+ {
+   "#": 1488,
+   "Title": "avoid-flood-in-the-city",
+   "Score": 3.17
+ },
+ {
+   "#": 864,
+   "Title": "shortest-path-to-get-all-keys",
+   "Score": 3.174
+ },
+ {
+   "#": 972,
+   "Title": "equal-rational-numbers",
+   "Score": 3.177
+ },
+ {
+   "#": 587,
+   "Title": "erect-the-fence",
+   "Score": 3.18
+ },
+ {
+   "#": 460,
+   "Title": "lfu-cache",
+   "Score": 3.181
+ },
+ {
+   "#": 1210,
+   "Title": "minimum-moves-to-reach-target-with-rotations",
+   "Score": 3.181
+ },
+ {
+   "#": 1316,
+   "Title": "distinct-echo-substrings",
+   "Score": 3.184
+ },
+ {
+   "#": 928,
+   "Title": "minimize-malware-spread-ii",
+   "Score": 3.197
+ },
+ {
+   "#": 818,
+   "Title": "race-car",
+   "Score": 3.201
+ },
+ {
+   "#": 879,
+   "Title": "profitable-schemes",
+   "Score": 3.205
+ },
+ {
+   "#": 1510,
+   "Title": "stone-game-iv",
+   "Score": 3.208
+ },
+ {
+   "#": 68,
+   "Title": "text-justification",
+   "Score": 3.21
+ },
+ {
+   "#": 10,
+   "Title": "regular-expression-matching",
+   "Score": 3.212
+ },
+ {
+   "#": 214,
+   "Title": "shortest-palindrome",
+   "Score": 3.212
+ },
+ {
+   "#": 839,
+   "Title": "similar-string-groups",
+   "Score": 3.223
+ },
+ {
+   "#": 1473,
+   "Title": "paint-house-iii",
+   "Score": 3.223
+ },
+ {
+   "#": 446,
+   "Title": "arithmetic-slices-ii--subsequence",
+   "Score": 3.229
+ },
+ {
+   "#": 1235,
+   "Title": "maximum-profit-in-job-scheduling",
+   "Score": 3.232
+ },
+ {
+   "#": 432,
+   "Title": "all-oone-data-structure",
+   "Score": 3.238
+ },
+ {
+   "#": 854,
+   "Title": "ksimilar-strings",
+   "Score": 3.25
+ },
+ {
+   "#": 956,
+   "Title": "tallest-billboard",
+   "Score": 3.25
+ },
+ {
+   "#": 591,
+   "Title": "tag-validator",
+   "Score": 3.252
+ },
+ {
+   "#": 683,
+   "Title": "k-empty-slots",
+   "Score": 3.254
+ },
+ {
+   "#": 600,
+   "Title": "nonnegative-integers-without-consecutive-ones",
+   "Score": 3.271
+ },
+ {
+   "#": 188,
+   "Title": "best-time-to-buy-and-sell-stock-iv",
+   "Score": 3.274
+ },
+ {
+   "#": 1000,
+   "Title": "minimum-cost-to-merge-stones",
+   "Score": 3.283
+ },
+ {
+   "#": 30,
+   "Title": "substring-with-concatenation-of-all-words",
+   "Score": 3.286
+ },
+ {
+   "#": 829,
+   "Title": "consecutive-numbers-sum",
+   "Score": 3.291
+ },
+ {
+   "#": 391,
+   "Title": "perfect-rectangle",
+   "Score": 3.295
+ },
+ {
+   "#": 675,
+   "Title": "cut-off-trees-for-golf-event",
+   "Score": 3.297
+ },
+ {
+   "#": 1269,
+   "Title": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+   "Score": 3.302
+ },
+ {
+   "#": 1187,
+   "Title": "make-array-strictly-increasing",
+   "Score": 3.311
+ },
+ {
+   "#": 630,
+   "Title": "course-schedule-iii",
+   "Score": 3.317
+ },
+ {
+   "#": 1067,
+   "Title": "digit-count-in-range",
+   "Score": 3.317
+ },
+ {
+   "#": 44,
+   "Title": "wildcard-matching",
+   "Score": 3.326
+ },
+ {
+   "#": 1388,
+   "Title": "pizza-with-3n-slices",
+   "Score": 3.326
+ },
+ {
+   "#": 1293,
+   "Title": "shortest-path-in-a-grid-with-obstacles-elimination",
+   "Score": 3.331
+ },
+ {
+   "#": 1326,
+   "Title": "minimum-number-of-taps-to-open-to-water-a-garden",
+   "Score": 3.339
+ },
+ {
+   "#": 1499,
+   "Title": "max-value-of-equation",
+   "Score": 3.354
+ },
+ {
+   "#": 968,
+   "Title": "binary-tree-cameras",
+   "Score": 3.363
+ },
+ {
+   "#": 1425,
+   "Title": "constrained-subsequence-sum",
+   "Score": 3.363
+ },
+ {
+   "#": 335,
+   "Title": "self-crossing",
+   "Score": 3.364
+ },
+ {
+   "#": 745,
+   "Title": "prefix-and-suffix-search",
+   "Score": 3.364
+ },
+ {
+   "#": 1336,
+   "Title": "number-of-transactions-per-visit",
+   "Score": 3.367
+ },
+ {
+   "#": 741,
+   "Title": "cherry-pickup",
+   "Score": 3.37
+ },
+ {
+   "#": 273,
+   "Title": "integer-to-english-words",
+   "Score": 3.372
+ },
+ {
+   "#": 440,
+   "Title": "kth-smallest-in-lexicographical-order",
+   "Score": 3.387
+ },
+ {
+   "#": 1012,
+   "Title": "numbers-with-repeated-digits",
+   "Score": 3.387
+ },
+ {
+   "#": 1263,
+   "Title": "minimum-moves-to-move-a-box-to-their-target-location",
+   "Score": 3.395
+ },
+ {
+   "#": 644,
+   "Title": "maximum-average-subarray-ii",
+   "Score": 3.396
+ },
+ {
+   "#": 685,
+   "Title": "redundant-connection-ii",
+   "Score": 3.396
+ },
+ {
+   "#": 321,
+   "Title": "create-maximum-number",
+   "Score": 3.398
+ },
+ {
+   "#": 631,
+   "Title": "design-excel-sum-formula",
+   "Score": 3.4
+ },
+ {
+   "#": 710,
+   "Title": "random-pick-with-blacklist",
+   "Score": 3.412
+ },
+ {
+   "#": 1157,
+   "Title": "online-majority-element-in-subarray",
+   "Score": 3.414
+ },
+ {
+   "#": 479,
+   "Title": "largest-palindrome-product",
+   "Score": 3.417
+ },
+ {
+   "#": 629,
+   "Title": "k-inverse-pairs-array",
+   "Score": 3.417
+ },
+ {
+   "#": 466,
+   "Title": "count-the-repetitions",
+   "Score": 3.439
+ },
+ {
+   "#": 1349,
+   "Title": "maximum-students-taking-exam",
+   "Score": 3.445
+ },
+ {
+   "#": 1001,
+   "Title": "grid-illumination",
+   "Score": 3.45
+ },
+ {
+   "#": 1172,
+   "Title": "dinner-plate-stacks",
+   "Score": 3.459
+ },
+ {
+   "#": 719,
+   "Title": "find-kth-smallest-pair-distance",
+   "Score": 3.461
+ },
+ {
+   "#": 1373,
+   "Title": "maximum-sum-bst-in-binary-tree",
+   "Score": 3.47
+ },
+ {
+   "#": 1178,
+   "Title": "number-of-valid-words-for-each-puzzle",
+   "Score": 3.476
+ },
+ {
+   "#": 1036,
+   "Title": "escape-a-large-maze",
+   "Score": 3.49
+ },
+ {
+   "#": 126,
+   "Title": "word-ladder-ii",
+   "Score": 3.492
+ },
+ {
+   "#": 1458,
+   "Title": "max-dot-product-of-two-subsequences",
+   "Score": 3.493
+ },
+ {
+   "#": 1449,
+   "Title": "form-largest-integer-with-digits-that-add-up-to-target",
+   "Score": 3.496
+ },
+ {
+   "#": 927,
+   "Title": "three-equal-parts",
+   "Score": 3.507
+ },
+ {
+   "#": 1095,
+   "Title": "find-in-mountain-array",
+   "Score": 3.51
+ },
+ {
+   "#": 1199,
+   "Title": "minimum-time-to-build-blocks",
+   "Score": 3.511
+ },
+ {
+   "#": 1392,
+   "Title": "longest-happy-prefix",
+   "Score": 3.517
+ },
+ {
+   "#": 656,
+   "Title": "coin-path",
+   "Score": 3.53
+ },
+ {
+   "#": 906,
+   "Title": "super-palindromes",
+   "Score": 3.533
+ },
+ {
+   "#": 1153,
+   "Title": "string-transforms-into-another-string",
+   "Score": 3.543
+ },
+ {
+   "#": 803,
+   "Title": "bricks-falling-when-hit",
+   "Score": 3.55
+ },
+ {
+   "#": 891,
+   "Title": "sum-of-subsequence-widths",
+   "Score": 3.554
+ },
+ {
+   "#": 871,
+   "Title": "minimum-number-of-refueling-stops",
+   "Score": 3.567
+ },
+ {
+   "#": 1307,
+   "Title": "verbal-arithmetic-puzzle",
+   "Score": 3.576
+ },
+ {
+   "#": 902,
+   "Title": "numbers-at-most-n-given-digit-set",
+   "Score": 3.579
+ },
+ {
+   "#": 1301,
+   "Title": "number-of-paths-with-max-score",
+   "Score": 3.585
+ },
+ {
+   "#": 493,
+   "Title": "reverse-pairs",
+   "Score": 3.592
+ },
+ {
+   "#": 1345,
+   "Title": "jump-game-iv",
+   "Score": 3.592
+ },
+ {
+   "#": 913,
+   "Title": "cat-and-mouse",
+   "Score": 3.599
+ },
+ {
+   "#": 780,
+   "Title": "reaching-points",
+   "Score": 3.601
+ },
+ {
+   "#": 639,
+   "Title": "decode-ways-ii",
+   "Score": 3.624
+ },
+ {
+   "#": 1434,
+   "Title": "number-of-ways-to-wear-different-hats-to-each-other",
+   "Score": 3.636
+ },
+ {
+   "#": 1397,
+   "Title": "find-all-good-strings",
+   "Score": 3.642
+ },
+ {
+   "#": 1044,
+   "Title": "longest-duplicate-substring",
+   "Score": 3.643
+ },
+ {
+   "#": 1521,
+   "Title": "find-a-value-of-a-mysterious-function-closest-to-target",
+   "Score": 3.643
+ },
+ {
+   "#": 1163,
+   "Title": "last-substring-in-lexicographical-order",
+   "Score": 3.65
+ },
+ {
+   "#": 952,
+   "Title": "largest-component-size-by-common-factor",
+   "Score": 3.667
+ },
+ {
+   "#": 1416,
+   "Title": "restore-the-array",
+   "Score": 3.694
+ },
+ {
+   "#": 1224,
+   "Title": "maximum-equal-frequency",
+   "Score": 3.698
+ },
+ {
+   "#": 878,
+   "Title": "nth-magical-number",
+   "Score": 3.699
+ },
+ {
+   "#": 1330,
+   "Title": "reverse-subarray-to-maximize-array-value",
+   "Score": 3.709
+ },
+ {
+   "#": 149,
+   "Title": "max-points-on-a-line",
+   "Score": 3.73
+ },
+ {
+   "#": 805,
+   "Title": "split-array-with-same-average",
+   "Score": 3.735
+ },
+ {
+   "#": 65,
+   "Title": "valid-number",
+   "Score": 3.75
+ },
+ {
+   "#": 1505,
+   "Title": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+   "Score": 3.751
+ },
+ {
+   "#": 887,
+   "Title": "super-egg-drop",
+   "Score": 3.757
+ },
+ {
+   "#": 1363,
+   "Title": "largest-multiple-of-three",
+   "Score": 3.787
+ },
+ {
+   "#": 1515,
+   "Title": "best-position-for-a-service-centre",
+   "Score": 3.788
+ },
+ {
+   "#": 1377,
+   "Title": "frog-position-after-t-seconds",
+   "Score": 3.791
+ },
+ {
+   "#": 1453,
+   "Title": "maximum-number-of-darts-inside-of-a-circular-dartboard",
+   "Score": 3.836
+ },
+ {
+   "#": 1354,
+   "Title": "construct-target-array-with-multiple-sums",
+   "Score": 3.842
+ },
+ {
+   "#": 862,
+   "Title": "shortest-subarray-with-sum-at-least-k",
+   "Score": 3.85
+ },
+ {
+   "#": 564,
+   "Title": "find-the-closest-palindrome",
+   "Score": 3.873
+ },
+ {
+   "#": 1383,
+   "Title": "maximum-performance-of-a-team",
+   "Score": 3.878
+ },
+ {
+   "#": 1494,
+   "Title": "parallel-courses-ii",
+   "Score": 3.906
+ },
+ {
+   "#": 420,
+   "Title": "strong-password-checker",
+   "Score": 4.017
+ },
+ {
+   "#": 1483,
+   "Title": "kth-ancestor-of-a-tree-node",
+   "Score": 4.13
+ }
+]
