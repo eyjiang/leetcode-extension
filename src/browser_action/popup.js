@@ -42,26 +42,37 @@ function setRangeEventListener() {
   var left_range = document.getElementById("left-range");
   var right_range = document.getElementById("right-range");
 
+  // Function object that returns value if input_val
+  // is empty, else assigns a value
+  const left_val = (input_val) => {
+    if (!input_val) return $(" #left-range ").val();
+    else $(" #left-range ").val(input_val);
+  }
+  const right_val = (input_val) => {
+    if (!input_val) return $(" #right-range ").val();
+    else $(" #right-range ").val(input_val);
+  }
+
   // TODO: Cleanup
   left_range.addEventListener("change", function() {
-    if ($(" #left-range ").val() < MIN_LOWER_RANGE) {
-      $(" #left-range ").val(MIN_LOWER_RANGE);
-    } else if ($(" #left-range ").val() > $(" #right-range ").val()) {
-      $(" #left-range ").val($(" #right-range ").val());
+    if (left_val() < MIN_LOWER_RANGE) {
+        left_val(MIN_LOWER_RANGE);
+    } else if (left_val() > right_val()) {
+        left_val(right_val());
     }
     chrome.storage.local.set({
-      range: [$(" #left-range ").val(), $(" #right-range ").val()]
+      range: [left_val(), right_val()]
     });
   });
 
   right_range.addEventListener("change", function() {
-    if ($(" #right-range ").val() > MAX_UPPER_RANGE) {
-      $(" #right-range ").val(MAX_UPPER_RANGE);
-    } else if ($(" #right-range ").val() < $(" #left-range ").val()) {
-      $(" #right-range ").val($(" #left-range ").val());
+    if (right_val() > MAX_UPPER_RANGE) {
+      right_val(MAX_UPPER_RANGE);
+    } else if (right_val() < left_val()) {
+      right_val(left_val());
     }
     chrome.storage.local.set({
-      range: [$(" #left-range ").val(), $(" #right-range ").val()]
+        range: [left_val(), right_val()]
     });
   });
 }
@@ -154,8 +165,8 @@ window.onload = function() {
     // Empty objects in JS {} aren't inherently falsy :-(
     if (!jQuery.isEmptyObject(result)) {
       console.log(JSON.stringify(result));
-      if (result.range[0]) $(" #left-range ").val(result.range[0]);
-      if (result.range[1]) $(" #right-range ").val(result.range[1]);
+      if (result.range[0]) $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
+      if (result.range[1]) $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
     }
   });
 
