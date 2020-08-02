@@ -1,6 +1,9 @@
+// Equivalent to frontend logic
+
 const MAX_UPPER_RANGE = 4.13;
 const MIN_LOWER_RANGE = 0.468;
 const RANGE_STEP = 0.001;
+let timed_mode = false;
 
 function findLowerBoundQuestion(questions, target) {
   // Far future TODO: Make each question in a range have the same chance
@@ -44,21 +47,21 @@ function setRangeEventListener() {
 
   // Function object that returns value if input_val
   // is empty, else assigns a value
-  const left_val = (input_val) => {
+  const left_val = input_val => {
     if (!input_val) return $(" #left-range ").val();
     else $(" #left-range ").val(input_val);
-  }
-  const right_val = (input_val) => {
+  };
+  const right_val = input_val => {
     if (!input_val) return $(" #right-range ").val();
     else $(" #right-range ").val(input_val);
-  }
+  };
 
   // TODO: Cleanup
   left_range.addEventListener("change", function() {
     if (left_val() < MIN_LOWER_RANGE) {
-        left_val(MIN_LOWER_RANGE);
+      left_val(MIN_LOWER_RANGE);
     } else if (left_val() > right_val()) {
-        left_val(right_val());
+      left_val(right_val());
     }
     chrome.storage.local.set({
       range: [left_val(), right_val()]
@@ -72,9 +75,14 @@ function setRangeEventListener() {
       right_val(left_val());
     }
     chrome.storage.local.set({
-        range: [left_val(), right_val()]
+      range: [left_val(), right_val()]
     });
   });
+}
+
+function startTimer() {
+  console.log("timing");
+  let seconds = 0;
 }
 
 function setFindButtonOnClick() {
@@ -101,6 +109,10 @@ function setFindButtonOnClick() {
       chrome.tabs.create({
         url: new_url
       });
+      console.log(timed_mode);
+      if (timed_mode) {
+        startTimer();
+      }
     });
   });
 }
@@ -165,10 +177,17 @@ window.onload = function() {
     // Empty objects in JS {} aren't inherently falsy :-(
     if (!jQuery.isEmptyObject(result)) {
       console.log(JSON.stringify(result));
-      if (result.range[0]) $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
-      if (result.range[1]) $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
+      if (result.range[0])
+        $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
+      if (result.range[1])
+        $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
     }
   });
 
+  $(".glyphicon-question-sign").tooltip();
+  $("#timed-button").click(function() {
+    alert("timed clicked");
+    timed_mode = !timed_mode;
+  })
   setEventListeners();
 };

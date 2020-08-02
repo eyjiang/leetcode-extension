@@ -1,5 +1,5 @@
 {
-  "name": "CHANGE THIS : Extension boilerplate",
+  "name": "Leetcode Game",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "This extension was created with the awesome extensionizr.com",
@@ -20,10 +20,17 @@
     "default_title": "browser action demo",
     "default_popup": "src/browser_action/browser_action.html"
   },
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/problems/*"],
+      "js": ["src/cs/contentScript.js"]
+    }
+  ],
   "permissions": [
     "cookies",
     "notifications",
     "tabs",
+    "activeTab",
     "storage",
     "https://leetcode.com/*"
   ],

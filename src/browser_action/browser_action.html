@@ -2,23 +2,37 @@
 
 <head>
   <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="/js/bootstrap-3.4.1-dist/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap" rel="stylesheet">
   <script src="popup.js"></script>
-  <script src="../../js/jquery/jquery.min.js"></script>
+  <script src="/js/jquery/jquery.min.js"></script>
+  <script src="/js/bootstrap-3.4.1-dist/js/bootstrap.min.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
 </head>
 
 <style type="text/css">
   #mainPopup {
     padding: 10px;
-    height: 250px;
+    height: 350px;
     width: 400px;
     font-family: Helvetica, Ubuntu, Arial, sans-serif;
+	  font-size: 1em;
   }
   h1 {
-    font-size: 2em;
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
   }
+  #timer {
+    font-size: 2.5em;
+  }
+  /* #timed-button {
+    background-color: red !important;
+  } */
 </style>
 
 <div id="mainPopup">
+    <!-- <a href="https://fontmeme.com/fonts/theano-didot-font/"><img src="https://fontmeme.com/permalink/200802/0b1592ddb6c73668b7bc1a25d1eb76a0.png" alt="theano-didot-font" border="0"></a> -->
   <h1>200K CHIPOTLE GUAC 🥑</h1>
   <p>
 	<div id="username"></div>
@@ -51,9 +65,13 @@
   <br />
   <br />
 
-  <button id="find-button">Find Question</button>
-  <br />
-  <br />
+  <button type="button" class="btn btn-primary" id="find-button">Find Question</button>
+  <button type="button" id="timed-button" class="btn btn-danger" data-toggle="button" aria-pressed="false" autocomplete="off">
+      Timed Mode
+  </button>
+  <span class='glyphicon glyphicon-question-sign' title="Activating Timed Mode will time you from the moment you press the question link to the moment you obtain a correct submission."></span>
+  <div id="timer">00:00</div>
+  <!-- <br /> -->
 
   <div id="question-value">Question Value:</div>
   <div id="question-link">Question Link Here</div>
