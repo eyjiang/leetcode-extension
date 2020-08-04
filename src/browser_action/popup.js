@@ -218,7 +218,6 @@ window.onload = function() {
 
   $(".glyphicon-question-sign").tooltip();
   $("#timed-button").click(function() {
-    alert("timed clicked");
     timed_mode = !timed_mode;
     chrome.storage.local.set({
       timed_flag: timed_mode

@@ -16,13 +16,16 @@
 
 let time;
 let seconds = 0;
+let timer_func;
 chrome.runtime.onMessage.addListener( function(request,sender,sendResponse)
 {
+  // TODO: Add clearInterval on new search
     if( request.msg === "startTimer" )
     {
       console.log("received startTimer")
+      clearInterval(timer_func);
       seconds = 0;
-      setInterval(function() {
+      timer_func = setInterval(function() {
         seconds++;
       }, 1000);
     }
@@ -30,9 +33,9 @@ chrome.runtime.onMessage.addListener( function(request,sender,sendResponse)
     {
       console.log("received getTimer");
       console.log(seconds);
-      minutes = (parseInt(seconds / 60)).toString().padStart(2, '0');
-      seconds = (parseInt(seconds % 60)).toString().padStart(2, '0');
-      console.log(minutes + ":" + seconds);
-      sendResponse( {time_string:minutes + ":" + seconds} );
+      min = (parseInt(seconds / 60)).toString().padStart(2, '0');
+      sec = (parseInt(seconds % 60)).toString().padStart(2, '0');
+      console.log(min + ":" + sec);
+      sendResponse( {time_string: min + ":" + sec} );
     }
 });
