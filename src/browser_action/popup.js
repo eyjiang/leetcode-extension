@@ -4,6 +4,8 @@ const MAX_UPPER_RANGE = 4.13;
 const MIN_LOWER_RANGE = 0.468;
 const RANGE_STEP = 0.001;
 let timed_mode = false;
+let timing = false;
+let curr_time = "00:00";
 
 function findLowerBoundQuestion(questions, target) {
   // Far future TODO: Make each question in a range have the same chance
@@ -81,8 +83,7 @@ function setRangeEventListener() {
 }
 
 function startTimer() {
-  console.log("timing");
-  let seconds = 0;
+  chrome.extension.sendMessage({msg: "startTimer"});
 }
 
 function setFindButtonOnClick() {
@@ -94,25 +95,24 @@ function setFindButtonOnClick() {
     );
     let question = findLowerBoundQuestion(data, random_val);
 
-    console.log(question);
-    console.assert(question);
-
     let new_url = "https://leetcode.com/problems/" + question["Title"] + "/";
     let new_link =
       '<a id="question-link" href=' + new_url + '">Question Link</a>';
-    console.log(new_link);
     $("#question-link").replaceWith($(new_link));
     $("#question-value").text("Question Value: " + question["Score"]);
 
+    // console.log("pressed find button");
+    // if (timed_mode) {
+    //   startTimer();
+    // }
     // Have window reload this event listener on each new question
     $("#question-link").click(function() {
-      chrome.tabs.create({
-        url: new_url
-      });
-      console.log(timed_mode);
       if (timed_mode) {
         startTimer();
       }
+      chrome.tabs.create({
+        url: new_url
+      });
     });
   });
 }
@@ -173,21 +173,56 @@ if (!username) {
 }
 
 window.onload = function() {
-  chrome.storage.local.get(["range"], function(result) {
-    // Empty objects in JS {} aren't inherently falsy :-(
-    if (!jQuery.isEmptyObject(result)) {
-      console.log(JSON.stringify(result));
+  // TODO: Move all .get() into one function
+  chrome.storage.local.get(["curr_time", "range", "timed_flag"], function(result) {
+    console.log(JSON.stringify(result));
+    if (result.curr_time) {
+      chrome.extension.sendMessage({msg: "getTimer"},     
+      // TODO: FUnctionalize
+      function (response) {
+        $("#timer").text(response.time_string);
+      });
+    }
+    if (result.range) {
       if (result.range[0])
-        $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
+      $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
       if (result.range[1])
-        $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
+      $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
+    }
+    if (result.timed_flag !== 'undefined') {
+      console.log("flag is now" + result.timed_flag);
+      timed_mode = result.timed_flag
+      console.log("wahh" + timed_mode.toString())
+
+      if (timed_mode) {
+        $("#timed-button").addClass("active");
+      }
+      else {
+        $("#timed-button").removeClass("active");
+      }
+      $("#timed-button").css("aria-pressed", timed_mode.toString());
     }
   });
+
+  // Send a getTimer message and update #timer every second
+  setInterval(() => {
+    chrome.extension.sendMessage({msg: "getTimer"},
+    function (response) {
+        time_string = response.time_string;
+        $("#timer").text(time_string);
+        chrome.storage.local.set({
+          curr_time: time_string
+        });
+    });
+  }, 1000);
 
   $(".glyphicon-question-sign").tooltip();
   $("#timed-button").click(function() {
     alert("timed clicked");
     timed_mode = !timed_mode;
+    chrome.storage.local.set({
+      timed_flag: timed_mode
+    });
   })
   setEventListeners();
 };

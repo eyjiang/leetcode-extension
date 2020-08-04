@@ -14,9 +14,25 @@
 //     sendResponse();
 //   });
 
-// if we get a message, start this timer, then return the correct string to show for frontend
-// setInterval(function() {
-//   let time = new Date(seconds * 1000).toISOString().substr(11, 8);
-//   $("#timer").html(time);
-//   seconds++;
-// }, 1000);
+let time;
+let seconds = 0;
+chrome.runtime.onMessage.addListener( function(request,sender,sendResponse)
+{
+    if( request.msg === "startTimer" )
+    {
+      console.log("received startTimer")
+      seconds = 0;
+      setInterval(function() {
+        seconds++;
+      }, 1000);
+    }
+    else if ( request.msg === "getTimer" ) 
+    {
+      console.log("received getTimer");
+      console.log(seconds);
+      minutes = (parseInt(seconds / 60)).toString().padStart(2, '0');
+      seconds = (parseInt(seconds % 60)).toString().padStart(2, '0');
+      console.log(minutes + ":" + seconds);
+      sendResponse( {time_string:minutes + ":" + seconds} );
+    }
+});
