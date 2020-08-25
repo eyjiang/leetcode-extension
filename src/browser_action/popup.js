@@ -5,7 +5,20 @@ const MIN_LOWER_RANGE = 0.468;
 const RANGE_STEP = 0.001;
 let timed_mode = false;
 let timing = false;
-let curr_time = "00:00";
+// let curr_time = "00:00";
+let curr_time;
+
+let LC_DATA; // Stores Leetcode's Question data
+let secondsUpdateFunc; 
+
+function fetchLeetcodeQuestionData() {
+  // Get all leetcode question data
+  fetch(chrome.extension.getURL("leetcode.json"))
+    .then(resp => resp.json())
+    .then(function(jsonData) {
+      LC_DATA = jsonData;
+    });
+}
 
 function findLowerBoundQuestion(questions, target) {
   // Far future TODO: Make each question in a range have the same chance
@@ -47,6 +60,9 @@ function setRangeEventListener() {
   var left_range = document.getElementById("left-range");
   var right_range = document.getElementById("right-range");
 
+  console.log("LEFT-RANGE");
+  console.log(left_range);
+
   // Function object that returns value if input_val
   // is empty, else assigns a value
   const left_val = input_val => {
@@ -83,7 +99,20 @@ function setRangeEventListener() {
 }
 
 function startTimer() {
-  chrome.extension.sendMessage({msg: "startTimer"});
+  chrome.extension.sendMessage({ msg: "startTimer" });
+}
+
+function sendGetTimer() {
+  // Send a getTimer message and update #timer every second
+  return setInterval(() => {
+    chrome.extension.sendMessage({ msg: "getTimer" }, function(response) {
+      time_string = response.time_string;
+      $("#timer").text(time_string);
+      chrome.storage.local.set({
+        curr_time: time_string
+      });
+    });
+  }, 1000);
 }
 
 function setFindButtonOnClick() {
@@ -93,7 +122,7 @@ function setFindButtonOnClick() {
     let random_val = parseFloat(Math.random() * (right - left) + left).toFixed(
       3
     );
-    let question = findLowerBoundQuestion(data, random_val);
+    let question = findLowerBoundQuestion(LC_DATA, random_val);
 
     let new_url = "https://leetcode.com/problems/" + question["Title"] + "/";
     let new_link =
@@ -117,16 +146,39 @@ function setFindButtonOnClick() {
   });
 }
 
+function setQuestionMarkGlyphicon() {
+  $(".glyphicon-question-sign").tooltip();
+}
+
+function setTimedButton() {
+  $("#timed-button").click(function() {
+    timed_mode = !timed_mode;
+    chrome.storage.local.set({
+      timed_flag: timed_mode
+    });
+  });
+}
+
+function setStopButton() {
+  $("#stop-button").click(function() {
+    clearInterval(secondsUpdateFunc);
+    chrome.extension.sendMessage({ msg: "stopTimer" });
+  });
+}
+
 function setEventListeners() {
   setRangeEventListener();
   setFindButtonOnClick();
+  setQuestionMarkGlyphicon();
+  setTimedButton();
+  setStopButton();
 }
 
-async function getLeetcodeData() {
+async function fetchLeetcodeProblemData() {
   fetch("https://leetcode.com/api/problems/algorithms/")
     .then(response => response.json())
-    .then(function(data) {
-      user_data = data;
+    .then(function(algo_data) {
+      user_data = algo_data;
       chrome.storage.local.set({ key: user_data }, function() {
         console.log("Saved user session.");
       });
@@ -144,84 +196,76 @@ function updateUserData(username, questions_solved) {
   );
 }
 
-// ============================================================
+function updateUserDataWithLocalData() {
+  var user_data;
+  var username;
+  var questions_solved;
 
-var data;
-fetch(chrome.extension.getURL("leetcode.json"))
-  .then(resp => resp.json())
-  .then(function(jsonData) {
-    data = jsonData;
+  // TODO: Update user stats every submission?
+  // Get current LC api user info
+  chrome.storage.local.get(["key"], function(result) {
+    // console.log('Value currently is ' + JSON.stringify(value));
+    user_data = result.key;
+    username = user_data["user_name"];
+    questions_solved = user_data["num_solved"];
+    updateUserData(username, questions_solved);
   });
 
-var user_data;
-var username;
-var questions_solved;
-
-// TODO: Update user stats every submission?
-chrome.storage.local.get(["key"], function(result) {
-  // console.log('Value currently is ' + JSON.stringify(value));
-  user_data = result.key;
-  username = user_data["user_name"];
-  questions_solved = user_data["num_solved"];
-  updateUserData(username, questions_solved);
-});
-
-if (!username) {
-  getLeetcodeData().then(function() {
-    updateUserData;
-  });
+  if (!username) {
+    fetchLeetcodeProblemData().then(function() {
+      updateUserData;
+    });
+  }
 }
 
-window.onload = function() {
+function getUserStoredStateOnWindowLoad() {
   // TODO: Move all .get() into one function
-  chrome.storage.local.get(["curr_time", "range", "timed_flag"], function(result) {
+  chrome.storage.local.get(["curr_time", "range", "timed_flag"], function(
+    result
+  ) {
     console.log(JSON.stringify(result));
     if (result.curr_time) {
-      chrome.extension.sendMessage({msg: "getTimer"},     
-      // TODO: FUnctionalize
-      function (response) {
-        $("#timer").text(response.time_string);
-      });
+      chrome.extension.sendMessage(
+        { msg: "getTimer" },
+        // TODO: Functionalize
+        function(response) {
+          $("#timer").text(response.time_string);
+        }
+      );
     }
     if (result.range) {
       if (result.range[0])
-      $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
+        $(" #left-range ").val(parseFloat(result.range[0]).toFixed(3));
       if (result.range[1])
-      $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
+        $(" #right-range ").val(parseFloat(result.range[1]).toFixed(3));
     }
-    if (result.timed_flag !== 'undefined') {
+    if (result.timed_flag !== "undefined") {
       console.log("flag is now" + result.timed_flag);
-      timed_mode = result.timed_flag
-      console.log("wahh" + timed_mode.toString())
+      timed_mode = result.timed_flag;
+      console.log("wahh" + timed_mode.toString());
 
       if (timed_mode) {
         $("#timed-button").addClass("active");
-      }
-      else {
+      } else {
         $("#timed-button").removeClass("active");
       }
       $("#timed-button").css("aria-pressed", timed_mode.toString());
     }
   });
+}
 
-  // Send a getTimer message and update #timer every second
-  setInterval(() => {
-    chrome.extension.sendMessage({msg: "getTimer"},
-    function (response) {
-        time_string = response.time_string;
-        $("#timer").text(time_string);
-        chrome.storage.local.set({
-          curr_time: time_string
-        });
-    });
-  }, 1000);
+function onWindowLoad() {
+  // Main function
+  window.onload = function() {
+    // function object that sends get to background.js every second
+    secondsUpdateFunc = sendGetTimer();
+    getUserStoredStateOnWindowLoad();
+    setEventListeners();
+  };
+}
 
-  $(".glyphicon-question-sign").tooltip();
-  $("#timed-button").click(function() {
-    timed_mode = !timed_mode;
-    chrome.storage.local.set({
-      timed_flag: timed_mode
-    });
-  })
-  setEventListeners();
-};
+// ============================================================
+
+fetchLeetcodeQuestionData();
+updateUserDataWithLocalData();
+onWindowLoad();
