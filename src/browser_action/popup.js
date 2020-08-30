@@ -166,12 +166,23 @@ function setStopButton() {
   });
 }
 
+// function setContentScriptEventLiseners() {
+//   console.log("contentscript")
+//   chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
+//     if (request.msg === "submitPressed") {
+//       console.log("received submission");
+//       $("#solved-sesh").text("submit pressed")
+//     }
+//   })
+// }
+
 function setEventListeners() {
   setRangeEventListener();
   setFindButtonOnClick();
   setQuestionMarkGlyphicon();
   setTimedButton();
   setStopButton();
+  // setContentScriptEventLiseners();
 }
 
 async function fetchLeetcodeProblemData() {
@@ -213,6 +224,7 @@ function updateUserDataWithLocalData() {
 
   if (!username) {
     fetchLeetcodeProblemData().then(function() {
+        // TODO: Fix 
       updateUserData;
     });
   }

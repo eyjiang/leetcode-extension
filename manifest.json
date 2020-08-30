@@ -23,7 +23,7 @@
   "content_scripts": [
     {
       "matches": ["https://leetcode.com/problems/*"],
-      "js": ["src/cs/contentScript.js"]
+      "js": ["/js/jquery/jquery.min.js", "src/cs/contentScript.js"]
     }
   ],
   "permissions": [

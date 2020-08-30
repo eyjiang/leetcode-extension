@@ -39,5 +39,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
       .toString()
       .padStart(2, "0");
     sendResponse({ time_string: min + ":" + sec });
+  } else if (request.msg === "submitPressed") {
+    console.log("problem submitted")
   }
 });
